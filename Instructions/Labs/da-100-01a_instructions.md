@@ -26,7 +26,7 @@ In this exercise, you connect to the classroom virtual machine and setup the env
 
 In this task, you will open the **MySettings.txt** file, and record your account details.
 
-*An account has been provided to you by your instructor, and it’s important that you use this account to complete all of the labs. If an account was not provided to you, please browse to https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-signing-up-for-power-bi-with-a-new-office-365-trial and follow the steps to create an account*.
+*An account has been provided to you by your instructor, and it’s important that you use this account to complete all of the labs. If an account was not provided to you, please browse to https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-signing-up-for-power-bi-with-a-new-office-365-trial and follow the steps to create an account before continuing with this lab*.
 
 1. To open File Explorer, on the taskbar, click the File Explorer program shortcut.
 
