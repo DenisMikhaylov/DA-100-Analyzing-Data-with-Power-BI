@@ -158,7 +158,7 @@ In this exercise you will create a scatter chart that can be animated.
 
 In this task you will create a scatter chart that can be animated.
 
-1. Rename **Page 1** as **Scatter Cha****rt**.
+1. Rename **Page 1** as **Scatter Chart**.
 
 	![Picture 67](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image14.png)
 
