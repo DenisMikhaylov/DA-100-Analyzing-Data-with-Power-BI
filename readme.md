@@ -1,6 +1,7 @@
 # DA-100: Analyzing Data with Power BI
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
+This repository contains the hands-on lab exercises for Microsoft course [DA-100 Analyzing Data with Power BI](https://docs.microsoft.com/en-us/learn/certifications/courses/da-100t00). The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
+
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
 
