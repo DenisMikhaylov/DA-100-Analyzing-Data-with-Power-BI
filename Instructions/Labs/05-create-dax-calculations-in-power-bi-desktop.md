@@ -312,7 +312,7 @@ In this task you will complete the design of the **Date** table by hiding a colu
 
 	![Picture 24](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image31.png)
 
-4. Create the follow two model relationships:
+4. Create the following two model relationships:
 
 	- **Date | Date** to **Sales | OrderDate**
 
