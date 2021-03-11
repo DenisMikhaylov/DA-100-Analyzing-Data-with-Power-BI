@@ -513,11 +513,11 @@ In this task you will explore the report that was published to Power BI.
 
 10. To undo the cross filter, in the column/line chart, click an empty area of the visual.
 
-11. Hover the cursor over the map visual, and then at the top-right, click the **In Focus** icon.
+11. Hover the cursor over the map visual, and then at the top-right, click the **Focus mode** icon.
 
 	![Picture 96](Linked_image_Files/07-design-report-in-power-bi-desktop_image65.png)
 
-	*In focus mode zooms the visual to full page size.*
+	*Focus mode zooms the visual to full page size.*
 
 12. Hover the cursor over different segments of the pie charts to reveal tooltips.
 
