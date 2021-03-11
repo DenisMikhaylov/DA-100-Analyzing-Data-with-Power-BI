@@ -228,7 +228,7 @@ In this task you will design the first report page. When you’ve completed the 
 
 	![Picture 27](Linked_image_Files/07-design-report-in-power-bi-desktop_image28.png)
 
-	*By dragging visuals into a visual, they will be added to default wells. For precision, you can drag fields directly into the wells, as you will do next.*
+	*By dragging fields into a visual, they will be added to default wells. For precision, you can drag fields directly into the wells, as you will do next.*
 
 26. From the **Fields** pane, drag the **Sales | Profit Margin** field into the **Line Values** well.
 
