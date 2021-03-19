@@ -56,7 +56,7 @@ In this task you will first save the Power BI Desktop file.
 
 	![Picture 2](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
 
-13. To close the getting started window, at the top-left of the window, click **X**.
+13. To close the getting started window, at the top-right of the window, click **X**.
 
 	![Picture 3](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image2.png)
 
