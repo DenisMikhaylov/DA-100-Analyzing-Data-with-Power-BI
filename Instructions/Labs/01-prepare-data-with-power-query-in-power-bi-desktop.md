@@ -76,7 +76,7 @@ In this task you will first save the Power BI Desktop file.
 
 	![Picture 17](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image5.png)
 
-	Tip: You can also save the file by click the **Save** icon located at the top-right.
+	Tip: You can also save the file by click the **Save** icon located at the top-left.
 
 	![Picture 18](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image6.png)
 
