@@ -387,7 +387,7 @@ In this task you will use the Key Influencers AI visual to determine what influe
 
 	![Picture 3](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image42.png)
 
-5. At the top-left of the visual, notice that **Key Influencers** is in focus, and the specific influence is set to understand what influences profit margin to increase.
+5. At the top-left of the visual, notice that **Key Influencers** is in focus, and the specific influence is set to understand what includes profit margin to increase.
 
 	![Picture 76](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image43.png)
 
