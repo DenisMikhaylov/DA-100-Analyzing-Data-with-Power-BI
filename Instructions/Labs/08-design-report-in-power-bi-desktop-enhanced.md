@@ -254,7 +254,7 @@ In this task you will enhance the drill through page with conditional formatting
 
 1. Select the table visual.
 
-2. In the visual fields pane, for the **Profit Margin** field, click the down-arrow, and then select **Conditional Formatting | Icons**.
+2. In the visualization pane, click the down-arrow on the **Profit Margin** value, and then select **Conditional Formatting | Icons**.
 
 	![Picture 107](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image29.png)
 
