@@ -374,7 +374,7 @@ In this task you will create simple measures. Simple measures aggregate values i
 
 	![Picture 30](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image37.png)
 
-	*Visible numeric columns allow report authors at report design to decide time how column values will summarize (or not). It can result in inappropriate reporting. Some data modelers don’t like leaving things to chance, however, and choose to hide these columns and instead expose aggregation logic defined in measures. It’s the approach you will now take in this lab.*
+	*Visible numeric columns allow report authors at report design time to decide how column values will summarize (or not). It can result in inappropriate reporting. Some data modelers don’t like leaving things to chance, however, and choose to hide these columns and instead expose aggregation logic defined in measures. It’s the approach you will now take in this lab.*
 
 4. To create a measure, in the **Fields** pane, right-click the **Sales** table, and then select **New Measure**.
 
