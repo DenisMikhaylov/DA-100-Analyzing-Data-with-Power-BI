@@ -52,33 +52,33 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 *Important: If you have already signed in to Power BI, continue from the next task.*
 
-12. To open Microsoft Edge, on the taskbar, click the Microsoft Edge program shortcut.
+1. To open Microsoft Edge, on the taskbar, click the Microsoft Edge program shortcut.
 
-	![Picture 12](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image1.png)
+ 	![Picture 12](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image1.png)
 
-13. In the Microsoft Edge browser window, navigate to **https://powerbi.com**.
+1. In the Microsoft Edge browser window, navigate to **https://powerbi.com**.
 
-	*Tip: You can also use the Power BI Service favorite on the Microsoft Edge favorites bar.*
+ 	*Tip: You can also use the Power BI Service favorite on the Microsoft Edge favorites bar.*
 
-14. Click **Sign In** (located at the top-right corner).
+1. Click **Sign In** (located at the top-right corner).
 
-	![Picture 11](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image2.png)
+ 	![Picture 11](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image2.png)
 
-15. Enter the account details provided to you.
+1. Enter the account details provided to you.
 
-16. If prompted to update the password, reenter the provided password, and then enter and confirm a new password.
+1. If prompted to update the password, reenter the provided password, and then enter and confirm a new password.
 
-	*Important: Be sure to record your new password.*
+ 	*Important: Be sure to record your new password.*
 
-17. Complete the sign in process.
+1. Complete the sign in process.
 
-18. If prompted by Microsoft Edge to stay signed in, click **Yes**.
+1. If prompted by Microsoft Edge to stay signed in, click **Yes**.
 
-19. In the Microsoft Edge browser window, in the Power BI service, in the **Navigation** pane, expand **My Workspace**.
+1. In the Microsoft Edge browser window, in the Power BI service, in the **Navigation** pane, expand **My Workspace**.
 
-	![Picture 22](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image3.png)
+ 	![Picture 22](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image3.png)
 
-20. Leave the Microsoft Edge browser window open.
+1. Leave the Microsoft Edge browser window open.
 
 ### Task 2: Get started – Open report
 
@@ -110,7 +110,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
 	![Picture 6](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image8.png)
 
-8. In the **Open** window, navigate to the **D:\DA100\Labs\design-report-in-power-bi-desktop-enhanced\Starter** folder.
+8. In the **Open** window, navigate to the **D:\DA100\Labs\08-design-report-in-power-bi-desktop-enhanced\Starter** folder.
 
 9. Select the **Sales Analysis** file.
 
@@ -204,7 +204,7 @@ In this task you will create a new page and configure it as a drill through page
 
 	![Picture 100](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image22.png)
 
-	*A button is added automatically when a field is added to the drill through well. It allows report users to navigate back to the page from which they drilled through.*
+	*A button is added automatically when a field is added to the drill through well/area. It allows report users to navigate back to the page from which they drilled through.*
 
 6. Add a **Card** visual to the page, and then resize and position it so it sits to the right of the button and fills the remaining width of the page.
 

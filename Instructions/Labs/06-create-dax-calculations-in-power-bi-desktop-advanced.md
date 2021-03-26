@@ -48,47 +48,47 @@ In this task you will setup the environment for the lab.
 
 *Important: If you are continuing on from the previous lab (and you completed that lab successfully), do not complete this task; instead, continue from the next task.*
 
-12. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
+1. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
 
     ![Picture 12](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image1.png)
 
-13. To close the getting started window, at the top-left of the window, click **X**.
+1. To close the getting started window, at the top-left of the window, click **X**.
 
     ![Picture 11](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image2.png)
 
-14. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
+1. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
 
-15. Select **Open Report**.
+1. Select **Open Report**.
 
     ![Picture 10](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image3.png)
 
-16. Click **Browse Reports**.
+1. Click **Browse Reports**.
 
     ![Picture 9](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image4.png)
 
-17. In the **Open** window, navigate to the **D:\DA100\Labs\create-dax-calculations-in-power-bi-desktop-advanced\Starter** folder.
+1. In the **Open** window, navigate to the **D:\DA100\Labs\06-create-dax-calculations-in-power-bi-desktop-advanced\Starter** folder.
 
-18. Select the **Sales Analysis** file.
+1. Select the **Sales Analysis** file.
 
-19. Click **Open**.
+1. Click **Open**.
 
     ![Picture 8](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image5.png)
 
-20. Close any informational windows that may open.
+1. Close any informational windows that may open.
 
-21. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
+1. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
 
-22. Select **Save As**.
+1. Select **Save As**.
 
     ![Picture 7](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image6.png)
 
-23. If prompted to apply changes, click **Apply**.
+1. If prompted to apply changes, click **Apply**.
 
     ![Picture 6](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image7.png)
 
-24. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
 
-25. Click **Save**.
+1. Click **Save**.
 
     ![Picture 2](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image8.png)
 
@@ -144,7 +144,7 @@ In this task you will create several measures with DAX expressions that use the 
 
 1. Add a measure to the **Sales** table, based on the following expression:
 
-    *For your convenience, all DAX definitions in this lab can be copied from the **D:\DA100\Labs\create-dax-calculations-in-power-bi-desktop-advanced\Assets\Snippets.txt** file.*
+    *For your convenience, all DAX definitions in this lab can be copied from the **D:\DA100\Labs\06-create-dax-calculations-in-power-bi-desktop-advanced\Assets\Snippets.txt** file.*
 
 
     **DAX**

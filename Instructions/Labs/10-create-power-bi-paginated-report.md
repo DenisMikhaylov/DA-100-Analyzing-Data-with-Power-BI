@@ -58,23 +58,23 @@ In this exercise you will open Power BI Report Builder to create and then save a
 
 In this task you will open Power BI Report Builder to create and then save a report.
 
-12. To open Power BI Report Builder, on the taskbar, click the **Power BI Report Builder** shortcut.
+1. To open Power BI Report Builder, on the taskbar, click the **Power BI Report Builder** shortcut.
 
-	![Picture 32](Linked_image_Files/11-create-power-bi-paginated-report_image2.png)
+ 	![Picture 32](Linked_image_Files/11-create-power-bi-paginated-report_image2.png)
 
-13. In the Power BI Report Builder window, to create a new report, in the **Getting Started** window, click **Blank Report**.
+1. In the Power BI Report Builder window, to create a new report, in the **Getting Started** window, click **Blank Report**.
 
-	![Picture 5](Linked_image_Files/11-create-power-bi-paginated-report_image3.png)
+ 	![Picture 5](Linked_image_Files/11-create-power-bi-paginated-report_image3.png)
 
-14. To save the report, click the **File** tab (located at the top-left), and then select **Save**.
+1. To save the report, click the **File** tab (located at the top-left), and then select **Save**.
 
-	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML32fddfaf.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image4.png)
+ 	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML32fddfaf.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image4.png)
 
-15. In the **Save As Report** window, navigate to the **D:\DA100\MySolution** folder.
+1. In the **Save As Report** window, navigate to the **D:\DA100\MySolution** folder.
 
-16. In the **Name** box, enter **Sales Order Report**.
+1. In the **Name** box, enter **Sales Order Report**.
 
-17. Click **Save**.
+1. Click **Save**.
 
 ## **Exercise 2: Design the Report Layout**
 
@@ -84,7 +84,7 @@ In this exercise you will design the report layout, and explore the final report
 
 In this task you will configure the report header.
 
-18. In the report designer, notice the default report layout, which consists of a body region and a report footer region.
+1. In the report designer, notice the default report layout, which consists of a body region and a report footer region.
 
 	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML330700e8.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image5.png)
 
@@ -92,31 +92,31 @@ In this task you will configure the report header.
 
 	*The default design will render the report title once, in the body, on the first rendered page. However, you will now modify the report design by adding a report header region, and by moving the report title textbox into this region. This way, the report title will repeat on every page. You will also add an image of the company logo.*
 
-19. To add a report header region, on the **Insert** ribbon tab, from inside the **Header &amp; Footer** group, click **Header**, and then select **Add Header**.
+1. To add a report header region, on the **Insert** ribbon tab, from inside the **Header &amp; Footer** group, click **Header**, and then select **Add Header**.
 
 	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML33038ea4.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image6.png)
 
-20. In the report designer, notice that a report header region has been added to the report layout.
+1. In the report designer, notice that a report header region has been added to the report layout.
 
-21. To select the body textbox, click the “Click to add title” textbox.
+1. To select the body textbox, click the “Click to add title” textbox.
 
-22. To move the textbox, click the four-headed arrow icon, and then drag it into the header region to then drop it at the very top-left of the report header region.
+1. To move the textbox, click the four-headed arrow icon, and then drag it into the header region to then drop it at the very top-left of the report header region.
 
 	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML330925bc.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image7.png)
 
-23. To modify the report title textbox text, click inside the text box, and then enter: **Sales Order Report**
+1. To modify the report title textbox text, click inside the text box, and then enter: **Sales Order Report**
 
 	*To resize the textbox, you will first open the **Properties** pane. For fine-grained control of location and size properties, you will need use the **Properties** pane.*
 
-24. On the **View** ribbon tab, from inside the **Show/Hide** group, check **Properties**.
+1. On the **View** ribbon tab, from inside the **Show/Hide** group, check **Properties**.
 
 	![Picture 27](Linked_image_Files/11-create-power-bi-paginated-report_image8.png)
 
-25. To select the report title textbox, first click an area outside the textbox, and then click the textbox again.
+1. To select the report title textbox, first click an area outside the textbox, and then click the textbox again.
 
 	*The textbox is selected when you see the border of the textbox highlighted and resizing handles (small circles) appear on the border.*
 
-26. In the **Properties** pane (located at the right), scroll down the list to locate the **Position** group.
+1. In the **Properties** pane (located at the right), scroll down the list to locate the **Position** group.
 
 	![Picture 28](Linked_image_Files/11-create-power-bi-paginated-report_image9.png)
 
@@ -124,33 +124,33 @@ In this task you will configure the report header.
 
 	*It’s important that you enter the values as directed in this lab. Pixel-perfect layout is required to achieve the page rendering at the end of the lab.*
 
-27. Within the **Position** group, expand the **Location** group, and ensure that the **Left** and **Top** properties are each set to **0in**.
+1. Within the **Position** group, expand the **Location** group, and ensure that the **Left** and **Top** properties are each set to **0in**.
 
 	*The location and size units are in inches because the regional settings of the lab virtual machine is set to the United States. If your region uses metric measurements, centimeters would be the default unit.*
 
-28. Within the **Position** group, expand the **Size** group, and then set the **Width** property to **4**.
+1. Within the **Position** group, expand the **Size** group, and then set the **Width** property to **4**.
 
 	![Picture 35](Linked_image_Files/11-create-power-bi-paginated-report_image10.png)
 
-29. To insert an image, on the **Insert** ribbon tab, from inside the **Report Items** group, click **Image**.
+1. To insert an image, on the **Insert** ribbon tab, from inside the **Report Items** group, click **Image**.
 
 	![Picture 31](Linked_image_Files/11-create-power-bi-paginated-report_image11.png)
 
-30. To add the image to the report design, click inside the report header region, to the right of the report title textbox.
+1. To add the image to the report design, click inside the report header region, to the right of the report title textbox.
 
-31. In the **Image Properties** window, to import from an image file, click **Import**.
+1. In the **Image Properties** window, to import from an image file, click **Import**.
 
 	![Picture 33](Linked_image_Files/11-create-power-bi-paginated-report_image12.png)
 
-32. In the **Open** window, navigate to the **D:\DA100\Resources** folder, and then select the **AdventureWorksLogo.jpg** file.
+1. In the **Open** window, navigate to the **D:\DA100\Resources** folder, and then select the **AdventureWorksLogo.jpg** file.
 
-33. Click **Open**.
+1. Click **Open**.
 
-34. In the **Image Properties** window, click **OK**.
+1. In the **Image Properties** window, click **OK**.
 
-35. In the report designer, notice that the image was added, and is selected.
+1. In the report designer, notice that the image was added, and is selected.
 
-36. To position and resize the image, in the **Properties** pane, configure the following properties:
+1. To position and resize the image, in the **Properties** pane, configure the following properties:
 
 | **Property**| **Value** |   |   |
 | - | - | - | - |
@@ -161,15 +161,15 @@ In this task you will configure the report header.
 | | | |
 
 
-37. To resize the report header region, first select the region by clicking a blank area of the region.
+1. To resize the report header region, first select the region by clicking a blank area of the region.
 
-38. In the **Properties** pane, set the **General | Height** property to **1**.
+1. In the **Properties** pane, set the **General | Height** property to **1**.
 
-39. Verify that the report header region contains a single textbox and image, and looks like the following:
+1. Verify that the report header region contains a single textbox and image, and looks like the following:
 
 	![Picture 34](Linked_image_Files/11-create-power-bi-paginated-report_image13.png)
 
-40. To save the report, on the **File** tab, click **Save**.
+1. To save the report, on the **File** tab, click **Save**.
 
 	*Tip: You can also click the disk icon located at the top-left.*
 
@@ -221,7 +221,7 @@ In this task you will create a data source and dataset to retrieve a query resul
 
 	![Picture 40](Linked_image_Files/11-create-power-bi-paginated-report_image19.png)
 
-13. In the **Import Query** window, navigate to the **D:\DA100\Labs\create-power-bi-paginated-report\Assets** folder, and then select the **SalesOrder.sql** file.
+13. In the **Import Query** window, navigate to the **D:\DA100\Labs\10-create-power-bi-paginated-report\Assets** folder, and then select the **SalesOrder.sql** file.
 
 14. Click **Open**.
 
@@ -321,13 +321,13 @@ In this task you will finalize the report header region design by adding textbox
 
 12. In the **Properties** pane, configure the following position properties:
 
-| **Property**| **Value** | | |
-| - | - | - | - |
-| Position | Location | Left| 0 |
-| Position | Location | Top| 0.5 |
-| Position | Size | Width| 4 |
-| Position | Size | Height| 0.25 |
-| | | | |
+    | **Property**| **Value** | | |
+    | - | - | - | - |
+    | Position > Location > Left | 0 |
+    | Position > Location > Top | 0.5 |
+    | Position > Size > Width | 4 |
+    | Position > Size > Height | 0.25 |
+    | | | |
 
 
 13. To format part of the textbox text, inside the new textbox, select only the **Sales Order:** text.
@@ -352,13 +352,13 @@ In this task you will finalize the report header region design by adding textbox
 
 19. In the **Properties** pane, configure the following position properties:
 
-| **Property**| **Value** | | |
-| - | - | - | - |
-| Position | Location | Left| 0 |
-| Position | Location | Top| 0.75 |
-| Position | Size | Width| 4 |
-| Position | Size | Height| 0.25 |
-| | | | |
+    | **Property**| **Value** | | |
+    | - | - | - | - |
+    | Position > Location > Left | 0 |
+    | Position > Location > Top | 0.75 |
+    | Position > Size > Width | 4 |
+    | Position > Size > Height | 0.25 |
+    | | | |
 
 
 20. Format the **Reseller:** text in bold.
@@ -383,13 +383,13 @@ In this task you will finalize the report header region design by adding textbox
 
 27. In the **Properties** pane, configure the following position properties:
 
-| **Property**| **Value** | | |
-| - | - | - | - |
-| Position | Location | Left| 0 |
-| Position | Location | Top| 1 |
-| Position | Size | Width| 4 |
-| Position | Size | Height| 0.25 |
-| | | | |
+    | **Property**| **Value** | | |
+    | - | - | - | - |
+    | Position > Location > Left | 0 |
+    | Position > Location > Top | 1 |
+    | Position > Size > Width | 4 |
+    | Position > Size > Height | 0.25 |
+    | | | | |
 
 
 28. Format the **Order Date:** text in bold.
@@ -434,8 +434,8 @@ In this task you will add a table data region to the report body.
 
 	| **Property**| **Value** | | |
 	| - | - | - | - |
-	| Position | Location | Left| 0 |
-	| Position | Location | Top| 0 |
+	| Position > Location > Left | 0 |
+	| Position > Location > Top | 0 |
 	| | | | |
 
 	*The table will display five columns. By default, the table template includes only three columns.*
@@ -518,9 +518,9 @@ In this task you will format the table data region.
 
 	| **Property**| **Value** | | |
 	| - | - | - | - |
-	| Fill | BackgroundColor| DarkGreen (tip: hover the cursor over each color to reveal its name) |  |
-	| Font | Color| White |  |
-	| Font | Font | FontWeight| Bold |
+	| Fill > BackgroundColor | DarkGreen (tip: hover the cursor over each color to reveal its name) |
+	| Font > Color | White |
+	| Font > Font > FontWeight | Bold |
 	| | | | |
 
 
