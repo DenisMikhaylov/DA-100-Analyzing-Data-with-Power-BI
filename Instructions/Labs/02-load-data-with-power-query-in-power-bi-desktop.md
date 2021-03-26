@@ -48,59 +48,59 @@ In this task you will setup the environment for the lab.
 
 *Important: If you are continuing on from the previous lab (and you completed that lab successfully), do not complete this task; instead, continue from the next task.*
 
-12. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
+1. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
 
-	![Picture 8](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
+    ![Picture 8](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
 
-13. To close the getting started window, at the top-left of the window, click **X**.
+1. To close the getting started window, at the top-left of the window, click **X**.
 
-	![Picture 7](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image2.png)
+    ![Picture 7](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image2.png)
 
-14. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
+1. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
 
-15. Select **Open Report**.
+1. Select **Open Report**.
 
 	![Picture 10](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image3.png)
 
-16. Click **Browse Reports**.
+1. Click **Browse Reports**.
 
-	![Picture 11](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image4.png)
+    ![Picture 11](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image4.png)
 
-17. In the **Open** window, navigate to the **D:\DA100\Labs\load-data-with-power-query-in-power-bi-desktop\Starter** folder.
+1. In the **Open** window, navigate to the **D:\DA100\Labs\02-load-data-with-power-query-in-power-bi-desktop\Starter** folder.
 
-18. Select the **Sales Analysis** file.
+1. Select the **Sales Analysis** file.
 
-19. Click **Open**.
+1. Click **Open**.
 
 	![Picture 12](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image5.png)
 
-20. Close any informational windows that may open.
+1. Close any informational windows that may open.
 
-21. Notice the yellow warning message beneath the ribbon.
+1. Notice the yellow warning message beneath the ribbon.
 
 	*The message alerts you to the fact that the queries have not been applied to load as model tables. You’ll apply the queries later in this lab.*
 
-22. To dismiss the warning message, at the right of the yellow warning message, click **X**.
+1. To dismiss the warning message, at the right of the yellow warning message, click **X**.
 
 	![Picture 13](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image6.png)
 
-23. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
+1. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
 
-24. Select **Save As**.
+1. Select **Save As**.
 
-	![Picture 18](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image7.png)
+    ![Picture 18](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image7.png)
 
-25. If prompted to apply changes, click **Apply Later**.
+1. If prompted to apply changes, click **Apply Later**.
 
-	![Picture 22](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image8.png)
+    ![Picture 22](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image8.png)
 
-26. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
 
-27. Click **Save**.
+1. Click **Save**.
 
-	![Picture 15](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image9.png)
+    ![Picture 15](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image9.png)
 
-28. To open the **Power Query Editor** window, on the **Home** ribbon tab, from inside the **Queries** group, click the **Transform Data** icon.
+1. To open the **Power Query Editor** window, on the **Home** ribbon tab, from inside the **Queries** group, click the **Transform Data** icon.
 
 	![Picture 20](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image10.png)
 
