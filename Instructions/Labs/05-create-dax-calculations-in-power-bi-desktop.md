@@ -50,47 +50,47 @@ In this task you will setup the environment for the lab.
 
 *Important: If you are continuing on from the previous lab (and you completed that lab successfully), do not complete this task; instead, continue from the next task.*
 
-1. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
+12. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
 
- 	![Picture 50](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image1.png)
+	![Picture 50](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image1.png)
 
-1. To close the getting started window, at the top-left of the window, click **X**.
+13. To close the getting started window, at the top-left of the window, click **X**.
 
- 	![Picture 49](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image2.png)
+	![Picture 49](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image2.png)
 
-1. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
+14. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
 
-1. Select **Open Report**.
+15. Select **Open Report**.
 
- 	![Picture 48](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image3.png)
+	![Picture 48](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image3.png)
 
-1. Click **Browse Reports**.
+16. Click **Browse Reports**.
 
- 	![Picture 47](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image4.png)
+	![Picture 47](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image4.png)
 
-1. In the **Open** window, navigate to the **D:\DA100\Labs\05-create-dax-calculations-in-power-bi-desktop\Starter** folder.
+17. In the **Open** window, navigate to the **D:\DA100\Labs\create-dax-calculations-in-power-bi-desktop\Starter** folder.
 
-1. Select the **Sales Analysis** file.
+18. Select the **Sales Analysis** file.
 
-1. Click **Open**.
+19. Click **Open**.
 
- 	![Picture 35](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image5.png)
+	![Picture 35](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image5.png)
 
-1. Close any informational windows that may open.
+20. Close any informational windows that may open.
 
-1. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
+21. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
 
-1. Select **Save As**.
+22. Select **Save As**.
 
- 	![Picture 34](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image6.png)
+	![Picture 34](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image6.png)
 
-1. If prompted to apply changes, click **Apply**.
+23. If prompted to apply changes, click **Apply**.
 
- 	![Picture 25](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image7.png)
+	![Picture 25](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image7.png)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+24. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
 
-1. Click **Save**.
+25. Click **Save**.
 
 	![Picture 13](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image8.png)
 
@@ -106,7 +106,7 @@ In this task you will create the **Salesperson** table (direct relationship to *
 
 	![Picture 4](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image10.png)
 
-	*For your convenience, all DAX definitions in this lab can be copied from the **D:\DA100\Labs\05-create-dax-calculations-in-power-bi-desktop\Assets\Snippets.txt** file.*
+	*For your convenience, all DAX definitions in this lab can be copied from the **D:\DA100\Labs\create-dax-calculations-in-power-bi-desktop\Assets\Snippets.txt** file.*
 
 	*A calculated table is created by first entering the table name, followed by the equals symbol (=), followed by a DAX formula that returns a table. Note that the table name cannot already exist in the data model.*
 
@@ -244,11 +244,11 @@ In this task you will add additional columns to enable filtering and grouping by
 
 	![Picture 51](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image23.png)
 
-8. In the **Fields** pane, from inside the **Date** table, drag the **Year** field into the **Rows** well/area.
+8. In the **Fields** pane, from inside the **Date** table, drag the **Year** field into the **Rows** well.
 
 	![Picture 17](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image24.png)
 
-9. Drag the **Month** field into the **Rows** well/area, directly beneath the **Year** field.
+9. Drag the **Month** field into the **Rows** well, directly beneath the **Year** field.
 
 	![Picture 18](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image25.png)
 
@@ -366,7 +366,7 @@ In this task you will create simple measures. Simple measures aggregate values i
 
 	*You may recall that in the **Model Data in Power BI Desktop, Part 2** lab, you set the **Unit Price** column to summarize by **Average**. The result you see in the matrix visual is the monthly average unit price (sum of unit price values divided by the count of unit prices).*
 
-2. In the visual fields pane (located beneath the **Visualizations** pane), in the **Values** field well/area, notice that **Unit Price** is listed.
+2. In the visual fields pane (located beneath the **Visualizations** pane), in the **Values** well, notice that **Unit Price** is listed.
 
 	![Picture 28](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image36.png)
 
@@ -440,7 +440,7 @@ In this task you will create simple measures. Simple measures aggregate values i
 
 	![Picture 36](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image41.png)
 
-14. In Report view, in the **Values** well/area of the matrix visual, for the **Unit Price** field, click **X** to remove it.
+14. In Report view, in the **Values** well of the matrix visual, for the **Unit Price** field, click **X** to remove it.
 
 	![Picture 38](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image42.png)
 

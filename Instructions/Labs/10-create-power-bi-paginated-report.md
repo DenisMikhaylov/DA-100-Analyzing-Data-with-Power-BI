@@ -58,23 +58,23 @@ In this exercise you will open Power BI Report Builder to create and then save a
 
 In this task you will open Power BI Report Builder to create and then save a report.
 
-1. To open Power BI Report Builder, on the taskbar, click the **Power BI Report Builder** shortcut.
+12. To open Power BI Report Builder, on the taskbar, click the **Power BI Report Builder** shortcut.
 
- 	![Picture 32](Linked_image_Files/11-create-power-bi-paginated-report_image2.png)
+	![Picture 32](Linked_image_Files/11-create-power-bi-paginated-report_image2.png)
 
-1. In the Power BI Report Builder window, to create a new report, in the **Getting Started** window, click **Blank Report**.
+13. In the Power BI Report Builder window, to create a new report, in the **Getting Started** window, click **Blank Report**.
 
- 	![Picture 5](Linked_image_Files/11-create-power-bi-paginated-report_image3.png)
+	![Picture 5](Linked_image_Files/11-create-power-bi-paginated-report_image3.png)
 
-1. To save the report, click the **File** tab (located at the top-left), and then select **Save**.
+14. To save the report, click the **File** tab (located at the top-left), and then select **Save**.
 
- 	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML32fddfaf.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image4.png)
+	![C:\Users\PETERM~1\AppData\Local\Temp\SNAGHTML32fddfaf.PNG](Linked_image_Files/11-create-power-bi-paginated-report_image4.png)
 
-1. In the **Save As Report** window, navigate to the **D:\DA100\MySolution** folder.
+15. In the **Save As Report** window, navigate to the **D:\DA100\MySolution** folder.
 
-1. In the **Name** box, enter **Sales Order Report**.
+16. In the **Name** box, enter **Sales Order Report**.
 
-1. Click **Save**.
+17. Click **Save**.
 
 ## **Exercise 2: Design the Report Layout**
 
@@ -221,7 +221,7 @@ In this task you will create a data source and dataset to retrieve a query resul
 
 	![Picture 40](Linked_image_Files/11-create-power-bi-paginated-report_image19.png)
 
-13. In the **Import Query** window, navigate to the **D:\DA100\Labs\10-create-power-bi-paginated-report\Assets** folder, and then select the **SalesOrder.sql** file.
+13. In the **Import Query** window, navigate to the **D:\DA100\Labs\create-power-bi-paginated-report\Assets** folder, and then select the **SalesOrder.sql** file.
 
 14. Click **Open**.
 
@@ -323,11 +323,11 @@ In this task you will finalize the report header region design by adding textbox
 
 | **Property**| **Value** | | |
 | - | - | - | - |
-| Position > Location > Left | 0 |
-| Position > Location > Top | 0.5 |
-| Position > Size > Width | 4 |
-| Position > Size > Height | 0.25 |
-| | | |
+| Position | Location | Left| 0 |
+| Position | Location | Top| 0.5 |
+| Position | Size | Width| 4 |
+| Position | Size | Height| 0.25 |
+| | | | |
 
 
 13. To format part of the textbox text, inside the new textbox, select only the **Sales Order:** text.
@@ -354,11 +354,11 @@ In this task you will finalize the report header region design by adding textbox
 
 | **Property**| **Value** | | |
 | - | - | - | - |
-| Position > Location > Left | 0 |
-| Position > Location > Top | 0.75 |
-| Position > Size > Width | 4 |
-| Position > Size > Height | 0.25 |
-| | | |
+| Position | Location | Left| 0 |
+| Position | Location | Top| 0.75 |
+| Position | Size | Width| 4 |
+| Position | Size | Height| 0.25 |
+| | | | |
 
 
 20. Format the **Reseller:** text in bold.
@@ -385,10 +385,10 @@ In this task you will finalize the report header region design by adding textbox
 
 | **Property**| **Value** | | |
 | - | - | - | - |
-| Position > Location > Left | 0 |
-| Position > Location > Top | 1 |
-| Position > Size > Width | 4 |
-| Position > Size > Height | 0.25 |
+| Position | Location | Left| 0 |
+| Position | Location | Top| 1 |
+| Position | Size | Width| 4 |
+| Position | Size | Height| 0.25 |
 | | | | |
 
 
@@ -434,8 +434,8 @@ In this task you will add a table data region to the report body.
 
 	| **Property**| **Value** | | |
 	| - | - | - | - |
-	| Position > Location > Left | 0 |
-	| Position > Location > Top | 0 |
+	| Position | Location | Left| 0 |
+	| Position | Location | Top| 0 |
 	| | | | |
 
 	*The table will display five columns. By default, the table template includes only three columns.*
@@ -518,9 +518,9 @@ In this task you will format the table data region.
 
 	| **Property**| **Value** | | |
 	| - | - | - | - |
-	| Fill > BackgroundColor | DarkGreen (tip: hover the cursor over each color to reveal its name) |
-	| Font > Color | White |
-	| Font > Font > FontWeight | Bold |
+	| Fill | BackgroundColor| DarkGreen (tip: hover the cursor over each color to reveal its name) |  |
+	| Font | Color| White |  |
+	| Font | Font | FontWeight| Bold |
 	| | | | |
 
 

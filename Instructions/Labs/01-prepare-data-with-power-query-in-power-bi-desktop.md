@@ -24,25 +24,25 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 1. **Prepare Data in Power BI Desktop**
 
-1. Load Data in Power BI Desktop
+2. Load Data in Power BI Desktop
 
-1. Model Data in Power BI Desktop, Part 1
+3. Model Data in Power BI Desktop, Part 1
 
-1. Model Data in Power BI Desktop, Part 2
+4. Model Data in Power BI Desktop, Part 2
 
-1. Create DAX Calculations in Power BI Desktop, Part 1
+5. Create DAX Calculations in Power BI Desktop, Part 1
 
-1. Create DAX Calculations in Power BI Desktop, Part 2
+6. Create DAX Calculations in Power BI Desktop, Part 2
 
-1. Design a Report in Power BI Desktop, Part 1
+7. Design a Report in Power BI Desktop, Part 1
 
-1. Design a Report in Power BI Desktop, Part 2
+8. Design a Report in Power BI Desktop, Part 2
 
-1. Create a Power BI Dashboard
+9. Create a Power BI Dashboard
 
-1. Perform Data Analysis in Power BI Desktop
+10. Perform Data Analysis in Power BI Desktop
 
-1. Create a Power BI Paginated Report
+11. Create a Power BI Paginated Report
 
 ## **Exercise 1: Prepare Data**
 
@@ -52,27 +52,27 @@ In this exercise you will create eight Power BI Desktop queries. Six queries wil
 
 In this task you will first save the Power BI Desktop file.
 
-1. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
+12. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
 
-1. 	![Picture 2](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
+	![Picture 2](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
 
-1. To close the getting started window, at the top-right of the window, click **X**.
+13. To close the getting started window, at the top-right of the window, click **X**.
 
-1. 	![Picture 3](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image2.png)
+	![Picture 3](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image2.png)
 
-1. To save the file, click the **File** ribbon tab to open the backstage view.
+14. To save the file, click the **File** ribbon tab to open the backstage view.
 
-1. Select **Save**.
+15. Select **Save**.
 
-1. 	![Picture 4](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image3.png)
+	![Picture 4](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image3.png)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+16. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
 
-1. In the **File Name** box, enter **Sales Analysis**.
+17. In the **File Name** box, enter **Sales Analysis**.
 
-1. 	![Picture 14](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image4.png)
+	![Picture 14](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image4.png)
 
-1. Click **Save**.
+18. Click **Save**.
 
 	![Picture 17](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image5.png)
 
@@ -86,27 +86,27 @@ In this task you will set Power BI Desktop options.
 
 1. In Power BI Desktop, click the **File** ribbon tab to open the backstage view.
 
-1. At the left, select **Options and Settings**, and then select **Options**.
+2. At the left, select **Options and Settings**, and then select **Options**.
 
-1. 	![Picture 1](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image7.png)
+	![Picture 1](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image7.png)
 
-1. In the **Options** window, at the left, in the **Current File** group, select **Data Load**.
+3. In the **Options** window, at the left, in the **Current File** group, select **Data Load**.
 
-    ![Picture 5](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image8.png)
+	![Picture 5](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image8.png)
 
-    The **Data Load** settings for the current file allow setting options that determine default behaviors when modeling.
+The **Data Load** settings for the current file allow setting options that determine default behaviors when modeling.
 
-1. In the **Relationships** group, uncheck the two options that are already checked.
+4. In the **Relationships** group, uncheck the two options that are already checked.
 
 	![Picture 7](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image9.png)
 
-    While these two options can be helpful when developing a data model, they have been disabled to support the lab experience. When you create relationships in the **Load Data in Power BI Desktop** lab, you’ll learn why you are adding each one.
+While these two options can be helpful when developing a data model, they have been disabled to support the lab experience. When you create relationships in the **Load Data in Power BI Desktop** lab, you’ll learn why you are adding each one.
 
-1. Click **OK**.
+5. Click **OK**.
 
-    ![Picture 9](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image10.png)
+	![Picture 9](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image10.png)
 
-1. Save the Power BI Desktop file.
+6. Save the Power BI Desktop file.
 
 ### **Task 3: Get data from SQL Server**
 
@@ -262,7 +262,7 @@ In this task you will preview the data of the SQL Server queries. First, you wil
 
 21. Hover the cursor over the **Ware House** bar, and notice that there are five rows with this value.
 
-    You’ll apply a transformation to relabel these five rows in the **Load Data in Power BI Desktop** lab.
+You’ll apply a transformation to relabel these five rows in the **Load Data in Power BI Desktop** lab.
 
 22. In the **Queries** pane, select the **DimSalesTerritory** query.
 

@@ -52,49 +52,49 @@ In this task you will setup the environment for the lab.
 
 *Important: If you are continuing on from the previous lab (and you completed that lab successfully), do not complete this task; instead, continue from the next task.*
 
-1. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
+12. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
 
-    ![Picture 12](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image1.png)
+	![Picture 12](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image1.png)
 
-1. To close the getting started window, at the top-left of the window, click **X**.
+13. To close the getting started window, at the top-left of the window, click **X**.
 
- 	![Picture 11](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image2.png)
+	![Picture 11](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image2.png)
 
-1. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
+14. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
 
-1. Select **Open Report**.
+15. Select **Open Report**.
 
- 	![Picture 10](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image3.png)
+	![Picture 10](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image3.png)
 
-1. Click **Browse Reports**.
+16. Click **Browse Reports**.
 
- 	![Picture 8](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image4.png)
+	![Picture 8](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image4.png)
 
-1. In the **Open** window, navigate to the **D:\DA100\Labs\03-configure-data-model-in-power-bi-desktop\Starter** folder.
+17. In the **Open** window, navigate to the **D:\DA100\Labs\configure-data-model-in-power-bi-desktop\Starter** folder.
 
-1. Select the **Sales Analysis** file.
+18. Select the **Sales Analysis** file.
 
-1. Click **Open**.
+19. Click **Open**.
 
- 	![Picture 7](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image5.png)
+	![Picture 7](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image5.png)
 
-1. Close any informational windows that may open.
+20. Close any informational windows that may open.
 
-1. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
+21. To create a copy of the file, click the **File** ribbon tab to open the backstage view.
 
-1. Select **Save As**.
+22. Select **Save As**.
 
- 	![Picture 5](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image6.png)
+	![Picture 5](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image6.png)
 
-1. If prompted to apply changes, click **Apply**.
+23. If prompted to apply changes, click **Apply**.
 
- 	![Picture 15](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image7.png)
+	![Picture 15](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image7.png)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+24. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
 
-1. Click **Save**.
+25. Click **Save**.
 
- 	![Picture 3](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image8.png)
+	![Picture 3](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image8.png)
 
 ### **Task 2: Create model relationships**
 
