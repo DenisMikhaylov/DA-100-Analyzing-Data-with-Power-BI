@@ -24,25 +24,25 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 1. **Prepare Data in Power BI Desktop**
 
-1. Load Data in Power BI Desktop
+2. Load Data in Power BI Desktop
 
-1. Model Data in Power BI Desktop, Part 1
+3. Model Data in Power BI Desktop, Part 1
 
-1. Model Data in Power BI Desktop, Part 2
+4. Model Data in Power BI Desktop, Part 2
 
-1. Create DAX Calculations in Power BI Desktop, Part 1
+5. Create DAX Calculations in Power BI Desktop, Part 1
 
-1. Create DAX Calculations in Power BI Desktop, Part 2
+6. Create DAX Calculations in Power BI Desktop, Part 2
 
-1. Design a Report in Power BI Desktop, Part 1
+7. Design a Report in Power BI Desktop, Part 1
 
-1. Design a Report in Power BI Desktop, Part 2
+8. Design a Report in Power BI Desktop, Part 2
 
-1. Create a Power BI Dashboard
+9. Create a Power BI Dashboard
 
-1. Perform Data Analysis in Power BI Desktop
+10. Create a Power BI Paginated Report
 
-1. Create a Power BI Paginated Report
+11. Perform Data Analysis in Power BI Desktop
 
 ## **Exercise 1: Prepare Data**
 
