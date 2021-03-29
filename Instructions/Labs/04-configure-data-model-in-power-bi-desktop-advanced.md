@@ -32,9 +32,9 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 9. Create a Power BI Dashboard
 
-10. Perform Data Analysis in Power BI Desktop
-
 11. Create a Power BI Paginated Report
+
+10. Perform Data Analysis in Power BI Desktop
 
 ## **Exercise 1: Create a Many-to many Relationship**
 
