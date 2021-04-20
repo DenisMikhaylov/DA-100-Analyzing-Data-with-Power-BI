@@ -243,7 +243,7 @@ In this task you will create the **Sales Monitoring** dashboard. You will pin a 
 
     ![Picture 16](Linked_image_Files/09-create-power-bi-dashboard_image30.png)
 
-21. To add the company log, on the menu bar, click **Edit**, and then select **Add a Tile**.
+21. To add the company logo, on the menu bar, click **Edit**, and then select **Add a Tile**.
 
     ![Picture 46](Linked_image_Files/09-create-power-bi-dashboard_image31.png)
 
