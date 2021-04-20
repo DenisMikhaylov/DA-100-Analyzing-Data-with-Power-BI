@@ -1,7 +1,7 @@
 ---
-Lab:
-    Title: 'Load Data in Power BI Desktop'
-    Module: 'Module 3 - Clean, Transform, and Load Data in Power BI'
+lab:
+    title: 'Load Data in Power BI Desktop'
+    module: 'Module 3 - Clean, Transform, and Load Data in Power BI'
 ---
 
 # **Load Data in Power BI Desktop**
