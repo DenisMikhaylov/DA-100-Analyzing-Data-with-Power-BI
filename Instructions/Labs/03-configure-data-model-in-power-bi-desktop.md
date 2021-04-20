@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Model Data in Power BI Desktop, Part 1'
+    module: 'Module 3 - Clean, Transform, and Load Data in Power BI'
+---
 
 
 # **Model Data in Power BI Desktop, Part 1**
