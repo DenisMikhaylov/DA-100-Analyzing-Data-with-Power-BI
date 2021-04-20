@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Perform Data Analysis in Power BI Desktop'
+    module: 'Module 10 - Perform Advanced Analytics'
+---
 
 
 # **Perform Data Analysis in Power BI Desktop**
