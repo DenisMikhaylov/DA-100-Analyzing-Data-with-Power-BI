@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Model Data in Power BI Desktop, Part 1'
-    module: 'Module 3 - Clean, Transform, and Load Data in Power BI'
+    module: 'Module 4 - Design a Data Model in Power BI'
 ---
 
 
