@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Create a Power BI Paginated Report'
+    module: 'Module 9 - Create Paginated Reports in Power BI'
+---
 
 
 # **Create a Power BI Paginated Report**

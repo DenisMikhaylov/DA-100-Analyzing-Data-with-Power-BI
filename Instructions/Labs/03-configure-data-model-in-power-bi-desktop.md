@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Model Data in Power BI Desktop, Part 1'
+    module: 'Module 4 - Design a Data Model in Power BI'
+---
 
 
 # **Model Data in Power BI Desktop, Part 1**
