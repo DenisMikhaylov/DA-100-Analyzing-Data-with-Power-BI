@@ -670,7 +670,7 @@ In this task you will update the **Product** query by merging the **ColorFormats
 
 	![Picture 5692](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image75.png)
 
-8. In the **Merge** window, click **OK**.
+8. In the **Merge** window, use the default **Join Kind** - maintaining the selection of Left Outer and click **OK**.
 
 	![Picture 5693](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image76.png)
 
