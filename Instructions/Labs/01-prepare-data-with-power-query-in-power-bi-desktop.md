@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Prepare Data in Power BI Desktop'
-    module: 'Module 2 - Prepare Data in Power BI'
+    module: 'Module 2 - Get Data in Power BI'
 ---
 
 # **Prepare Data in Power BI Desktop**
