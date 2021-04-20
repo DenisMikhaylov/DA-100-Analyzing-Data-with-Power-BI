@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Design a Report in Power BI Desktop, Part 2'
+    module: 'Module 7 - Create Reports'
+---
 
 
 # **Design a Report in Power BI Desktop, Part 2**
