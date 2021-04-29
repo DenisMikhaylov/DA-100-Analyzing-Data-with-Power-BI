@@ -335,7 +335,7 @@ In this task you will create a decomposition tree to explore the relationships b
 
 	![Picture 61](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image36.png)
 
-8. Notice that the decision tree presents resellers, ordered from highest profit margin.
+8. Notice that the decomposition tree presents resellers, ordered from highest profit margin.
 
 9. To remove the level, at the top of visual, beside the **Reseller** label, click **X**.
 
