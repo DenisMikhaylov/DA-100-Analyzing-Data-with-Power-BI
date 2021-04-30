@@ -66,6 +66,8 @@ In this task you will open Power BI Report Builder to create and then save a rep
 1. To open Power BI Report Builder, on the taskbar, click the **Power BI Report Builder** shortcut.
 
  	![Picture 32](Linked_image_Files/11-create-power-bi-paginated-report_image2.png)
+	
+	*Note: if prompted to update to the latest version of Power BI Report Builder, click **Cancel** and proceed to step 2.
 
 1. In the Power BI Report Builder window, to create a new report, in the **Getting Started** window, click **Blank Report**.
 
