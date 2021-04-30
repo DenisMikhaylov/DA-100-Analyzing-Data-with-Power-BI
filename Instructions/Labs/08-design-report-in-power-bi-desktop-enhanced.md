@@ -492,15 +492,3 @@ In this task you will complete the lab.
 	![Picture 23](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image56.png)
 
 2. Leave the Microsoft Edge browser window open.
-
-3. In Power BI Desktop, go to the **My Performance** page, and then in the **Filters** pane, remove the **Salesperson** filter card.
-
-	![Picture 132](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image57.png)
-
-4. Select the **Overview** page.
-
-5. Save the Power BI Desktop file, and then republish the report to Power BI.
-
-6. Leave Power BI Desktop open.
-
-	*When you share the report in the **Publish and Share Power BI Content** lab, the report will enforce row-level security.*
