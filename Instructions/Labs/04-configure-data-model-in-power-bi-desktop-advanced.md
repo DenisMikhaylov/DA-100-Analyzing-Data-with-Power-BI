@@ -9,7 +9,7 @@ lab:
 
 **The estimated time to complete the lab is 45 minutes**
 
-In this lab you will create a many-to-many relationship between the **Salesperson** table and the **Sales** table. You will also enforce row-level security to ensure that a salesperson can only analyze sales data for their assigned region(s).
+In this lab you will create a many-to-many relationship between the **Salesperson** table and the **Sales** table. 
 
 In this lab you learn how to:
 
@@ -142,8 +142,6 @@ In this task you will create a many-to-many relationship between the **Salespers
 9. In the **Edit Relationship** window, in the **Cross Filter Direction** dropdown list, select **Both**.
 
 10. Check the **Apply Security Filter in Both Directions** checkbox.
-
-	*This setting will ensure that bi-directional filtering is applied when row-level security is enforced. You’ll configure a security role in the next exercise.*
 
 	![Picture 381](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image12.png)
 
