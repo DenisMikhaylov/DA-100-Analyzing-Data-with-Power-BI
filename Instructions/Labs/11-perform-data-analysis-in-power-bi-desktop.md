@@ -47,7 +47,7 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 11. **Perform Data Analysis in Power BI Desktop**
 
-## **Create the Report**
+## **Exercise 1: Create the Report**
 
 In this exercise you will create the **Sales Exploration** report.
 
@@ -155,7 +155,7 @@ In this task you will create the **Sales Exploration** report.
 
 	*You’ll now create four report pages, and on each page you’ll work with a different visual to analyze and explore data.*
 
-## **Create a Scatter Chart**
+## **Exercise 2: Create a Scatter Chart**
 
 In this exercise you will create a scatter chart that can be animated.
 
@@ -215,7 +215,7 @@ In this task you will create a scatter chart that can be animated.
 
 11. Save the Power BI Desktop file.
 
-## **Create a Forecast**
+## **Exercise 3: Create a Forecast**
 
 In this exercise you will create a forecast to determine possible future sales revenue.
 
@@ -293,7 +293,7 @@ In this task you will create a forecast to determine possible future sales reven
 
 14. Save the Power BI Desktop file.
 
-## **Work with a Decomposition Tree**
+## **Exercise 4: Work with a Decomposition Tree**
 
 In this exercise you will create a decomposition tree to explore the relationships between reseller geography and profit margin.
 
@@ -359,7 +359,7 @@ In this task you will create a decomposition tree to explore the relationships b
 
 16. Save the Power BI Desktop file.
 
-## **Work with Key Influencers**
+## **Exercise 5: Work with Key Influencers**
 
 In this exercise you will use the Key Influencers AI visual to determine what influences profitability within reseller business types and geography.
 
