@@ -381,31 +381,21 @@ In this task you will design the third—and final—report page. When you’ve 
 
 1. Create a new page, and then rename it as **My Performance**.
 
-	*You may recall that row-level security was configured to ensure users only ever see data for their sales regions and targets. When this report is distributed to salespeople, they’ll only ever see their sales performance results.*
-
-2. To simulate the row-level security filters during report design and testing, add the **Salesperson (Performance) | Salesperson** field to the **Filters** pane, inside the **Filters On This Page** well/area.
-
-3. In the filter card, scroll down the list of salespeople, and then check **Michael Blythe**.
-
-	![Picture 73](Linked_image_Files/07-design-report-in-power-bi-desktop_image48.png)
-
-	*You’ll be instructed to delete this filter before publishing the report to Power BI.*
-
-4. Add a dropdown slicer based on the **Date | Year** field, and then resize and position it so it sits at the top-left corner of the page.
+1. Add a dropdown slicer based on the **Date | Year** field, and then resize and position it so it sits at the top-left corner of the page.
 
 	![Picture 70](Linked_image_Files/07-design-report-in-power-bi-desktop_image49.png)
 
-5. In the slicer, set the page to filter by **FY2019**.
+1. In the slicer, set the page to filter by **FY2019**.
 
 	![Picture 71](Linked_image_Files/07-design-report-in-power-bi-desktop_image50.png)
 
-6. Add a **Multi-row Card** visual, and then resize and reposition it so it sits to the right of the slicer and fills the remaining width of the page.
+1. Add a **Multi-row Card** visual, and then resize and reposition it so it sits to the right of the slicer and fills the remaining width of the page.
 
 	![Picture 56](Linked_image_Files/07-design-report-in-power-bi-desktop_image51.png)
 
 	![Picture 74](Linked_image_Files/07-design-report-in-power-bi-desktop_image52.png)
 
-7. Add the following four fields to the visual:
+1. Add the following four fields to the visual:
 
 	- Sales | Sales
 
@@ -415,7 +405,7 @@ In this task you will design the third—and final—report page. When you’ve 
 
 	- Targets | Variance Margin
 
-8. Format the visual:
+1. Format the visual:
 
 	- In the **Data Labels** group, increase the **Text Size** property to **28pt**
 
@@ -423,13 +413,13 @@ In this task you will design the third—and final—report page. When you’ve 
 
 	![Picture 79](Linked_image_Files/07-design-report-in-power-bi-desktop_image53.png)
 
-9. Add a **Clustered Bar Chart** visual, and then resize and position it so it sits beneath the multi-row card visual and fills the remaining height of the page, and half the width of the multi-row card visual.
+1. Add a **Clustered Bar Chart** visual, and then resize and position it so it sits beneath the multi-row card visual and fills the remaining height of the page, and half the width of the multi-row card visual.
 
 	![Picture 59](Linked_image_Files/07-design-report-in-power-bi-desktop_image54.png)
 
 	![Picture 78](Linked_image_Files/07-design-report-in-power-bi-desktop_image55.png)
 
-10. Add the following fields to the visual wells/areas:
+1. Add the following fields to the visual wells/areas:
 
 	- Axis: **Date | Month**
 
@@ -437,13 +427,13 @@ In this task you will design the third—and final—report page. When you’ve 
 
 	![Picture 80](Linked_image_Files/07-design-report-in-power-bi-desktop_image56.png)
 
-11. To create a copy of the visual, press **Ctrl+C**, and then press **Ctrl+V**.
+1. To create a copy of the visual, press **Ctrl+C**, and then press **Ctrl+V**.
 
-12. Position the new visual to the right of the original visual.
+1. Position the new visual to the right of the original visual.
 
 	![Picture 82](Linked_image_Files/07-design-report-in-power-bi-desktop_image57.png)
 
-13. To modify the visualization type, in the **Visualizations** pane, select **Clustered Column Chart**.
+1. To modify the visualization type, in the **Visualizations** pane, select **Clustered Column Chart**.
 
 	![Picture 61](Linked_image_Files/07-design-report-in-power-bi-desktop_image58.png)
 
