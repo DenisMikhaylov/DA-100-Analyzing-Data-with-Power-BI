@@ -130,35 +130,21 @@ In this task you will create queries based on SQL Server tables.
 
 	![Picture 22](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image13.png)
 
-4. Notice that the default authentication is to **Use My Current Credentials**.
-
-	![Picture 23](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image14.png)
-
-	Power BI Desktop will connect to the SQL Server instance by using your identity. You have read permission to the data source you’re about to connect to.
-
-5. Click **Connect**.
-
-	![Picture 25](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image15.png)
-
-6. When prompted about encryption support, click **OK**.
-
-	![Picture 27](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image16.png)
-
-7. In the **Navigator** window, at the left, expand the **AdventureWorksDW2020** database.
+4. In the **Navigator** window, at the left, expand the **AdventureWorksDW2020** database.
 
 	The **AdventureWorksDW2020** database is based on the **AdventureWorksDW2017** sample database. It has been modified to support the learning objectives of the course labs.
 
 	![Picture 28](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image17.png)
 
-8. Select—but don’t check—the **DimEmployee** table.
+5. Select—but don’t check—the **DimEmployee** table.
 
 	![Picture 29](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image18.png)
 
-9. In the right pane, notice a preview of the table data.
+6. In the right pane, notice a preview of the table data.
 
 	The preview data allows you to determine the columns and a sample of rows.
 
-10. To create queries, check the following six tables:
+7. To create queries, check the following six tables:
 
 	- DimEmployee
 
@@ -172,7 +158,7 @@ In this task you will create queries based on SQL Server tables.
 
 	- FactResellerSales
 
-11. To apply transformations to the data of the selected tables, click **Transform Data**.
+8. To apply transformations to the data of the selected tables, click **Transform Data**.
 
 	You won’t be transforming the data in this lab. The objectives of this lab focus on exploring and profiling the data in the **Power Query Editor** window.
 
