@@ -726,7 +726,7 @@ In this task you will complete the lab.
 
 	- Sales
 
-	- Target
+	- Targets
 
 	- ColorFormats (which will not load to the data model)
 
