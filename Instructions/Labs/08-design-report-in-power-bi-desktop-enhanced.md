@@ -457,7 +457,7 @@ In this task you will publish the report.
 
 	![Picture 19](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image54.png)
 
-10. Close Power BI Desktop open.
+10. Close Power BI Desktop.
 
 	*You’ll explore the report in the Power BI service in the next exercise.*
 
