@@ -19,7 +19,7 @@ In this lab you learn how to:
 
 - Work with the decomposition tree visual
 
-- Work with the key influences visual
+- Work with the key influencers visual
 
 ### **Lab story**
 
