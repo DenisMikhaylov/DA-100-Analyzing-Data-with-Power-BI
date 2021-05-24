@@ -195,7 +195,7 @@ In this task you will create a data source and dataset to retrieve a query resul
 
 2. In the **Data Source Properties** window, in the **Name** box, replace the text with **AdventureWorksDW2020**.
 
-3. In the **Select Connection Type** dropdown list, notice that **Microsoft SQL Server** is selected.
+3. In the **Select Connection Type** dropdown list, change the connection type from SQL Server Analysis Services to **Microsoft SQL Server**.
 
 4. To build the connection string, click **Build**.
 
