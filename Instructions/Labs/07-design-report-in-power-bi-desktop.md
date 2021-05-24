@@ -382,6 +382,7 @@ In this task you will design the third—and final—report page. When you’ve 
 1. Create a new page, and then rename it as **My Performance**.
 
 1. To simulate the performance of row-level security filters, drag the **Salesperson (Performance) | Salesperson** field to the page level filters in the filter pane.
+	
 	![Image of Salesperson field in filter pane.](Linked_image_Files/07-design-report-in-power-bi-desktop_image999.png) 
 
 1. Select **Michael Blythe**. Data on the **My Performance** report page will now be filtered to display data for Michael Blythe only.
