@@ -392,7 +392,7 @@ In this task you will create a sales YoY growth measure.
 
 3. Notice that the new measure returns BLANK for the first 12 months (because there were no sales recorded before fiscal year 2017).
 
-4. Notice that the **Sales YoY Growth** measure value for **2017 Jul** is the **Sales** value for **2016 Jan**.
+4. Notice that the **Sales YoY Growth** measure value for **2018 Jul** is the **Sales** value for **2017 Jan**.
 
     ![Picture 61](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image22.png)
 
