@@ -144,7 +144,7 @@ In this task you will create queries based on SQL Server tables.
 
 	The preview data allows you to determine the columns and a sample of rows.
 
-7. To create queries, check the following six tables:
+7. To create queries, select the checkbox next to the following six tables:
 
 	- DimEmployee
 
