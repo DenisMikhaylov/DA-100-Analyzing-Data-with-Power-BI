@@ -181,7 +181,7 @@ In this task you will create the **Date** table.
 
 	```
 	Date =  
-	‎CALENDARAUTO(6)
+	CALENDARAUTO(6)
 	```
 
 
