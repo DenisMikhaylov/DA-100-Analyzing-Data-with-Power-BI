@@ -45,6 +45,8 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 11. Perform Data Analysis in Power BI Desktop
 
+12. Enforce Row-Level Security
+
 ## **Exercise 1: Create a Dashboard**
 
 In this exercise you will create the **Sales Monitoring** dashboard. The completed dashboard will look like the following:

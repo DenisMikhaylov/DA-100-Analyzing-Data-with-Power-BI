@@ -42,6 +42,8 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 11. Perform Data Analysis in Power BI Desktop
 
+12. Enforce Row-Level Security
+
 ## **Exercise 1: Load Data**
 
 In this exercise you will apply transformations to each of the queries created in the previous lab.

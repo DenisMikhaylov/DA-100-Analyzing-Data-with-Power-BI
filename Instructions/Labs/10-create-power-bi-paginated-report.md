@@ -55,6 +55,8 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 11. Perform Data Analysis in Power BI Desktop
 
+12. Enforce Row-Level Security
+
 ## **Exercise 1: Get Started**
 
 In this exercise you will open Power BI Report Builder to create and then save a report.
