@@ -524,7 +524,7 @@ In this task you will explore the report that was published to Power BI.
 
 	*Focus mode zooms the visual to full page size.*
 
-13. Hover the cursor over different segments of the pie charts to reveal tooltips.
+13. Hover the cursor over different segments of the bar charts to reveal tooltips.
 
 14. To return to the report page, at the top-left, click **Back to Report**.
 
