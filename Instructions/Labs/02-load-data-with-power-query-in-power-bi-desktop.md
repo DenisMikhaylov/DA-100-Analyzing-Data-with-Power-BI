@@ -463,7 +463,7 @@ In this task you will configure the **Sales** query.
 
 7. In the **Custom Column Formula** box, enter the following expression (after the equals symbol):
 
-8. For your convenience, you can copy the expression from the **D:\DA100\Labs\load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** file.
+8. For your convenience, you can copy the expression from the **D:\DA100\Labs\02-load-data-with-power-query-in-power-bi-desktop\Assets\Snippets.txt** file.
 
 
    **Power Query**
