@@ -312,23 +312,24 @@ In this task you will complete the design of the **Date** table by hiding a colu
 
 2. In the **Date** table, hide the **MonthKey** column (set **Is Hidden** to **Yes**).
 
-3. In the **Date** table, create a hierarchy named **Fiscal**, with the following three levels:
+3. On the **Fields** right side pane, select the **Date** table, right click on the **Year** column, and select **create hierarchy**. 
 
-	- Year
-
+4. Rename newly created hierarchy to **Fiscal** by right click and **Rename**. 
+5. Add the follow two remaining fields to the Fiscal hierachy by selecting them in the fields pane, right clicking, selecting **Add to hierarchy** -> **Fiscal**.
+	
 	- Quarter
 
 	- Month
 
 	![Picture 24](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image31.png)
 
-4. Create the following two model relationships:
+6. Create the following two model relationships:
 
 	- **Date | Date** to **Sales | OrderDate**
 
 	- **Date | Date** to **Targets | TargetMonth**
 
-5. Hide the following two columns:
+7. Hide the following two columns:
 
 	- Sales | OrderDate
 
