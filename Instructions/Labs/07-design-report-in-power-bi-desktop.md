@@ -79,7 +79,39 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 1. Leave the Microsoft Edge browser window open.
 
-### **Task 2: Get started – Open report**
+### **Task 2: Get started – Enable Map and map filled visuals**
+
+In this task you will enable map and map filled visuals in the environment for the lab by updating the Integration settings in the Power BI Admin portal. 
+
+
+1. To open the Power BI Admin portal, at the top-right of the browser, click the **Settings** icon.
+
+ 	![Picture 101](Linked_image_Files/07-design-report-in-power-bi-desktop_image101.png)
+
+1. Select **Admin portal**.
+
+ 	![Picture 102](Linked_image_Files/07-design-report-in-power-bi-desktop_image102.png)
+
+1. Scroll down the page to Integration settings. Click the arrow to expand the Map and filled map visuals option.
+
+ 	![Picture 103](Linked_image_Files/07-design-report-in-power-bi-desktop_image103.png)
+
+1. Set the Map and filled map visuals option to **Enabled**.
+
+1. Click **Apply**, to apply the changes. 
+
+	![Picture 104](Linked_image_Files/07-design-report-in-power-bi-desktop_image104.png)
+
+1. A message will appear at the top-right of the browser stating the Tenant settings changes will be applied within the next 15 minutes. 
+
+
+	![Picture 105](Linked_image_Files/07-design-report-in-power-bi-desktop_image105.png)
+
+
+
+1. Leave the Microsoft Edge browser window open.
+
+### **Task 3: Get started – Open report**
 
 In this task you will setup the environment for the lab by opening the starter report.
 
@@ -135,7 +167,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
 	![Picture 4](Linked_image_Files/07-design-report-in-power-bi-desktop_image11.png)
 
-### **Task 3: Design page 1**
+### **Task 4: Design page 1**
 
 In this task you will design the first report page. When you’ve completed the design, the page will look like the following:
 
@@ -299,7 +331,7 @@ In this task you will design the first report page. When you’ve completed the 
 
 	*The design of the first page is now complete.*
 
-### **Task 4: Design page 2**
+### **Task 5: Design page 2**
 
 In this task you will design the second report page. When you’ve completed the design, the page will look like the following:
 
@@ -374,7 +406,7 @@ In this task you will design the second report page. When you’ve completed the
 
 	*The design of the second page is now complete.*
 
-### **Task 5: Design page 3**
+### **Task 6: Design page 3**
 
 In this task you will design the third—and final—report page. When you’ve completed the design, the page will look like the following:
 
@@ -448,7 +480,7 @@ In this task you will design the third—and final—report page. When you’ve 
 
 	*The design of the third—and final—page is now complete.*
 
-### **Task 6: Publish the report**
+### **Task 7: Publish the report**
 
 In this task you will publish the report.
 
