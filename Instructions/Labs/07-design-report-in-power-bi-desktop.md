@@ -79,7 +79,7 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 1. Leave the Microsoft Edge browser window open.
 
-### **Task 2: Get started – Enable Map and map filled visuals**
+### **Task 2: Get started – Enable Map and filled map visuals**
 
 In this task you will enable map and map filled visuals in the environment for the lab by updating the Integration settings in the Power BI Admin portal. 
 
