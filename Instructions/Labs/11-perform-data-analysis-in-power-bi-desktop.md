@@ -397,7 +397,7 @@ In this task you will use the Key Influencers AI visual to determine what influe
 
 	![Picture 76](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image43.png)
 
-6. Review the result, which is that the city of **Bothel** is more likely to increase.
+6. Review the result, which is that the city of **Bothell** is more likely to increase.
 
 7. Modify the target to determine what influences profit margin to decrease.
 
