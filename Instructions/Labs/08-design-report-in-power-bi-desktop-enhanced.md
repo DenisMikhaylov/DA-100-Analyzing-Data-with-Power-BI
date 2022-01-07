@@ -401,7 +401,7 @@ In this task you will add two buttons, and assign bookmark actions to each.
 
 2. Position the button directly beneath the **Year** slicer.
 
-3. Select the button, and then in the **Visualizations** pane, turn the **Button Text** property to **On**.
+3. Select the button, and then in the **Format button** pane, turn the **Button Text** property to **On**.
 
 	![Picture 126](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image49.png)
 
