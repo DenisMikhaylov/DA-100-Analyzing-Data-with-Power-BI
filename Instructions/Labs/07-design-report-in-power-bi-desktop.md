@@ -224,7 +224,7 @@ In this task you will design the first report page. When you’ve completed the 
 
 14. De-select the slicer by clicking an empty area of the report page.
 
-15. Create a second slicer, based on the **Region | Region** field (not the **Region** level of the hierarch).
+15. Create a second slicer, based on the **Region \| Region** field (not the **Region** level of the hierarch).
 
 16. Leave the slicer as a list, and then resize and position the slicer beneath the **Year** slicer.
 
