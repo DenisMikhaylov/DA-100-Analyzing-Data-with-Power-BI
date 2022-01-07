@@ -198,9 +198,9 @@ In this task you will design the first report page. When you’ve completed the 
 	![Picture 12](Linked_image_Files/07-design-report-in-power-bi-desktop_image17.png)
 
 7. To add a slicer, first de-select the image by clicking an empty area of the report page.
-8. In the **Fields** pane, select the **Date | Year** field (not the **Year** level of the hierarchy).
+8. In the **Fields** pane, select the **Date \| Year** field (not the **Year** level of the hierarchy).
 	
-	*The labs use a shorthand notation to reference a field. It will look like this: **Date | Year**. In this example, **Date** is the table name and **Year** is the field name.*
+	*The labs use a shorthand notation to reference a field. It will look like this: **Date \| Year**. In this example, **Date** is the table name and **Year** is the field name.*
 
 9. Notice that a table of year values has been added to the report page.
 
@@ -258,9 +258,9 @@ In this task you will design the first report page. When you’ve completed the 
 
 24. Drag and drop the following fields into the visual:
 
-	- Date | Month
+	- Date \| Month
 
-	- Sales | Sales
+	- Sales \| Sales
 
 25. In the visual fields pane (not the **Fields** pane—the visual fields pane is located beneath the **Visualizations** pane), notice that the fields are assigned to the **Shared Axis** and **Column Values** wells/areas.
 
@@ -268,7 +268,7 @@ In this task you will design the first report page. When you’ve completed the 
 
 	*By dragging fields into a visual, they will be added to default wells/areas. For precision, you can drag fields directly into the wells/areas, as you will do next.*
 
-26. From the **Fields** pane, drag the **Sales | Profit Margin** field into the **Line Values** well/area.
+26. From the **Fields** pane, drag the **Sales \| Profit Margin** field into the **Line Values** well/area.
 
 	![Picture 28](Linked_image_Files/07-design-report-in-power-bi-desktop_image29.png)
 
@@ -294,11 +294,11 @@ In this task you will design the first report page. When you’ve completed the 
 
 33. Add the following fields to the visual wells/areas:
 
-	- Location: **Region | Country**
+	- Location: **Region \| Country**
 
-	- Legend: **Product | Category**
+	- Legend: **Product \| Category**
 
-	- Size: **Sales | Sales**
+	- Size: **Sales \| Sales**
 
 34. De-select the chart by clicking an empty area of the report page.
 
@@ -312,9 +312,9 @@ In this task you will design the first report page. When you’ve completed the 
 
 37. Add the following fields to the visual wells/areas:
 
-	- Axis: **Product | Category**
+	- Axis: **Product \| Category**
 
-	- Value: **Sales | Quantity**
+	- Value: **Sales \| Quantity**
 
 38. To format the visual, open the **Format** pane.
 
@@ -349,7 +349,7 @@ In this task you will design the second report page. When you’ve completed the
   
 ‎ 
 
-3. Add a slicer based on the **Region | Region** field.
+3. Add a slicer based on the **Region \| Region** field.
 
 4. Use the **Format** pane to enable the “Select All” option (in the **Selection Controls** group).
 
@@ -383,7 +383,7 @@ In this task you will design the second report page. When you’ve completed the
 
 	![Picture 57](Linked_image_Files/07-design-report-in-power-bi-desktop_image44.png)
 
-10. From the **Fields** pane, drag the **Product | Category** field into the **Filter On This Page** well/area.
+10. From the **Fields** pane, drag the **Product \| Category** field into the **Filter On This Page** well/area.
 
 11. Inside the filter card, at the top-right, click the arrow to collapse the card.
 
@@ -413,13 +413,13 @@ In this task you will design the third—and final—report page. When you’ve 
 
 1. Create a new page, and then rename it as **My Performance**.
 
-1. To simulate the performance of row-level security filters, drag the **Salesperson (Performance) | Salesperson** field to the page level filters in the filter pane.
+1. To simulate the performance of row-level security filters, drag the **Salesperson (Performance) \| Salesperson** field to the page level filters in the filter pane.
 	
 	![Image of Salesperson field in filter pane.](Linked_image_Files/07-design-report-in-power-bi-desktop_image999.png) 
 
 1. Select **Michael Blythe**. Data on the **My Performance** report page will now be filtered to display data for Michael Blythe only.
 
-1. Add a dropdown slicer based on the **Date | Year** field, and then resize and position it so it sits at the top-left corner of the page.
+1. Add a dropdown slicer based on the **Date \| Year** field, and then resize and position it so it sits at the top-left corner of the page.
 
 	![Picture 70](Linked_image_Files/07-design-report-in-power-bi-desktop_image49.png)
 
@@ -435,13 +435,13 @@ In this task you will design the third—and final—report page. When you’ve 
 
 1. Add the following four fields to the visual:
 
-	- Sales | Sales
+	- Sales \| Sales
 
-	- Targets | Target
+	- Targets \| Target
 
-	- Targets | Variance
+	- Targets \| Variance
 
-	- Targets | Variance Margin
+	- Targets \| Variance Margin
 
 1. Format the visual:
 
@@ -459,9 +459,9 @@ In this task you will design the third—and final—report page. When you’ve 
 
 1. Add the following fields to the visual wells/areas:
 
-	- Axis: **Date | Month**
+	- Axis: **Date \| Month**
 
-	- Value: **Sales | Sales** and **Targets | Target**
+	- Value: **Sales \| Sales** and **Targets \| Target**
 
 	![Picture 80](Linked_image_Files/07-design-report-in-power-bi-desktop_image56.png)
 
