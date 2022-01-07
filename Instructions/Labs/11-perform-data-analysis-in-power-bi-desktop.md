@@ -179,21 +179,21 @@ In this task you will create a scatter chart that can be animated.
 
 	The labs use a shorthand notation to reference a field. It will look like this: **Reseller** **|** **Business Type**. In this example, **Reseller** is the table name and **Business Type** is the field name.
 
-	- Legend: **Reseller | Business Type**
+	- Legend: **Reseller \| Business Type**
 
-	- X Axis: **Sales | Sales** 
+	- X Axis: **Sales \| Sales** 
 
-	- Y Axis: **Sales | Profit Margin**
+	- Y Axis: **Sales \| Profit Margin**
 
-	- Size: **Sales | Quantity**
+	- Size: **Sales \| Quantity**
 
-	- Play Axis: **Date | Quarter**
+	- Play Axis: **Date \| Quarter**
 
 	![Picture 39](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image17.png)
 
 	*The chart can be animated when a field is added to the **Play Axis** well/area.*
 
-4. In the **Filters** pane, add the **Product | Category** field to the **Filters On This Page** well/area.
+4. In the **Filters** pane, add the **Product \| Category** field to the **Filters On This Page** well/area.
 
 5. In the filter card, filter by **Bikes**.
 
@@ -239,13 +239,13 @@ In this task you will create a forecast to determine possible future sales reven
 
 3. Add the following fields to the visual wells/areas:
 
-	- Axis: **Date | Date**
+	- Axis: **Date \| Date**
 
-	- Values: **Sales | Sales** 
+	- Values: **Sales \| Sales** 
 
 	![Picture 46](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image23.png)
 
-4. In the **Filters** pane, add the **Date | Year** field to the **Filters On This Page** well/area.
+4. In the **Filters** pane, add the **Date \| Year** field to the **Filters On This Page** well/area.
 
 5. In the filter card, filter by two years: **FY2019** and **FY2020**.
 
@@ -255,7 +255,7 @@ In this task you will create a forecast to determine possible future sales reven
 
   
 
-6. Add also the **Product | Category** field to the **Filters On This Page** well/area, and filter by **Bikes**.
+6. Add also the **Product \| Category** field to the **Filters On This Page** well/area, and filter by **Bikes**.
 
 	![Picture 48](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image25.png)
 
@@ -319,13 +319,13 @@ In this task you will create a decomposition tree to explore the relationships b
 
 4. Add the following fields to the visual wells/areas:
 
-	- Analyze: **Sales | Profit Margin**
+	- Analyze: **Sales \| Profit Margin**
 
-	- Explain By: **Reseller | Geography** (the entire hierarchy)
+	- Explain By: **Reseller \| Geography** (the entire hierarchy)
 
 	![Picture 57](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image33.png)
 
-5. In the **Filters** pane, add the **Date | Year** field to the **Filters On This Page**, and set the filter to **FY2020**.
+5. In the **Filters** pane, add the **Date \| Year** field to the **Filters On This Page**, and set the filter to **FY2020**.
 
 	![Picture 59](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image34.png)
 
@@ -385,11 +385,11 @@ In this task you will use the Key Influencers AI visual to determine what influe
 
 4. Add the following fields to the visual wells:
 
-	- Analyze: **Sales | Profit Margin**
+	- Analyze: **Sales \| Profit Margin**
 
-	- Explain By: **Reseller | Business Type** and **Reseller | Geography** (the entire hierarchy)
+	- Explain By: **Reseller \| Business Type** and **Reseller \| Geography** (the entire hierarchy)
 
-	- Expand By: **Sales | Quantity**
+	- Expand By: **Sales \| Quantity**
 
 	![Picture 3](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image42.png)
 
