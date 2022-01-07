@@ -198,9 +198,8 @@ In this task you will design the first report page. When you’ve completed the 
 	![Picture 12](Linked_image_Files/07-design-report-in-power-bi-desktop_image17.png)
 
 7. To add a slicer, first de-select the image by clicking an empty area of the report page.
-
 8. In the **Fields** pane, select the **Date | Year** field (not the **Year** level of the hierarchy).
-
+	
 	*The labs use a shorthand notation to reference a field. It will look like this: **Date | Year**. In this example, **Date** is the table name and **Year** is the field name.*
 
 9. Notice that a table of year values has been added to the report page.
