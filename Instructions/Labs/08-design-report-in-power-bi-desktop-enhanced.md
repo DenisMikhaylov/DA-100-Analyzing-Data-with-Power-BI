@@ -197,9 +197,9 @@ In this task you will create a new page and configure it as a drill through page
 
 	*Report users won’t be able to go to the drill through page directly. They’ll need to access it from visuals on other pages. You’ll learn how to drill through to the page in the final exercise of this lab.*
 
-3. Beneath the **Visualizations** pane, in the **Drill Through** section, add the **Product | Category** field to the **Add Drill-Through Fields Here** box.
+3. Beneath the **Visualizations** pane, in the **Drill Through** section, add the **Product \| Category** field to the **Add Drill-Through Fields Here** box.
 
-	*The labs use a shorthand notation to reference a field. It will look like this: **Product | Category**. In this example, **Product** is the table name and **Category** is the field name.*
+	*The labs use a shorthand notation to reference a field. It will look like this: **Product \| Category**. In this example, **Product** is the table name and **Category** is the field name.*
 
 	![Picture 96](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image20.png)
 
@@ -235,15 +235,15 @@ In this task you will create a new page and configure it as a drill through page
 
 11. Add the following fields to the visual:
 
-	- Product | Subcategory
+	- Product \| Subcategory
 
-	- Product | Color
+	- Product \| Color
 
-	- Sales | Quantity
+	- Sales \| Quantity
 
-	- Sales | Sales
+	- Sales \| Sales
 
-	- Sales | Profit Margin
+	- Sales \| Profit Margin
 
 12. Configure the format options for the visual, and in the **Grid** section, set the **Text Size** property to **20pt**.
 
@@ -261,7 +261,7 @@ In this task you will enhance the drill through page with conditional formatting
 
 1. Select the table visual.
 
-2. In the visualization pane, click the down-arrow on the **Profit Margin** value, and then select **Conditional Formatting | Icons**.
+2. In the visualization pane, click the down-arrow on the **Profit Margin** value, and then select **Conditional Formatting \| Icons**.
 
 	![Picture 107](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image29.png)
 
@@ -311,7 +311,7 @@ In this task you will enhance the drill through page with conditional formatting
 
 	![Picture 113](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image35.png)
 
-11. In the **Based on Field** dropdown list, select **Product | Formatting | Background Color Format**.
+11. In the **Based on Field** dropdown list, select **Product \| Formatting \| Background Color Format**.
 
 	![Picture 114](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image36.png)
 
@@ -319,7 +319,7 @@ In this task you will enhance the drill through page with conditional formatting
 
 	![Picture 115](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image37.png)
 
-13. Repeat the previous steps to configure font color conditional formatting for the **Color** field, using the **Product | Formatting | Font Color Format** field
+13. Repeat the previous steps to configure font color conditional formatting for the **Color** field, using the **Product \| Formatting \| Font Color Format** field
 
 	*You may recall that the background and font colors were source from the **ColorFormats.csv** file in the **Prepare Data in Power BI Desktop** lab, and then integrated with the **Product** query in the **Load Data in Power BI Desktop** lab.*
 
