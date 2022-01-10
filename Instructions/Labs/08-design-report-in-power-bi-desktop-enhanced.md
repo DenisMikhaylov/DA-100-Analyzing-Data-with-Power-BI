@@ -219,7 +219,7 @@ In this task you will create a new page and configure it as a drill through page
 
 	![Picture 101](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image24.png)
 
-7. Drag the **Product | Category** field into the card visual.
+7. Drag the **Product \| Category** field into the card visual.
 
 8. Configure the format options for the visual, and then turn the **Category Label** property to **Off**.
 
