@@ -473,7 +473,7 @@ In this task you will explore the report in the Power BI service.
 
 1. In the Microsoft Edge browser window, in the Power BI service, in the **Navigation** pane, click the **Sales Analysis** report.
 
-2. To test the drill through report, in the **Overview** page, in the **Quantity by Category** visual, right-click the **Clothing** bar, and then select **Drill Through | Product Details**.
+2. To test the drill through report, in the **Overview** page, in the **Quantity by Category** visual, right-click the **Clothing** bar, and then select **Drill Through \| Product Details**.
 
 	![Picture 130](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image55.png)
 
