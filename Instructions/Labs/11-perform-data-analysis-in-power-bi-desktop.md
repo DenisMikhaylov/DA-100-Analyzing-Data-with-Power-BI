@@ -177,7 +177,7 @@ In this task you will create a scatter chart that can be animated.
 
 3. Add the following fields to the visual wells/areas:
 
-	The labs use a shorthand notation to reference a field. It will look like this: **Reseller** **|** **Business Type**. In this example, **Reseller** is the table name and **Business Type** is the field name.
+	The labs use a shorthand notation to reference a field. It will look like this: **Reseller** **\|** **Business Type**. In this example, **Reseller** is the table name and **Business Type** is the field name.
 
 	- Legend: **Reseller \| Business Type**
 
