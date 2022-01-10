@@ -161,17 +161,17 @@ In this task you will configure the report header.
 
 1. To position and resize the image, in the **Properties** pane, configure the following properties:
 
-	- **Position | Location | Left** : 5
+	- **Position \| Location \| Left** : 5
 
-	- **Position | Location | Top** : 0
+	- **Position \| Location \| Top** : 0
 
-	- **Position | Size | Width** : 1
+	- **Position \| Size \| Width** : 1
 
-	- **Position | Size | Height** : 1
+	- **Position \| Size \| Height** : 1
 
 1. To resize the report header region, first select the region by clicking a blank area of the region.
 
-1. In the **Properties** pane, set the **General | Height** property to **1**.
+1. In the **Properties** pane, set the **General \| Height** property to **1**.
 
 1. Verify that the report header region contains a single textbox and image, and looks like the following:
 
