@@ -103,11 +103,11 @@ In this task you will create a many-to-many relationship between the **Salespers
 
 1. In Power BI Desktop, in Report view, in the **Fields** pane, check the follow two fields to create a table visual:
 
-	- Salesperson | Salesperson
+	- Salesperson \| Salesperson
 
-	- Sales | Sales
+	- Sales \| Sales
 
-	*The labs use a shorthand notation to reference a field. It will look like this: **Salesperson | Salesperson** . In this example, **Salesperson**  is the table name and **Salesperson**  is the field name.*
+	*The labs use a shorthand notation to reference a field. It will look like this: **Salesperson \| Salesperson** . In this example, **Salesperson**  is the table name and **Salesperson**  is the field name.*
 
 	![Picture 1](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image9.png)
 
@@ -125,9 +125,9 @@ In this task you will create a many-to-many relationship between the **Salespers
 
 5. Use the drag-and-drop technique to create the following two model relationships:
 
-	- **Salesperson | EmployeeKey** to **SalespersonRegion | EmployeeKey**
+	- **Salesperson \| EmployeeKey** to **SalespersonRegion \| EmployeeKey**
 
-	- **Region | SalesTerritoryKey** to **SalespersonRegion | SalesTerritoryKey**
+	- **Region \| SalesTerritoryKey** to **SalespersonRegion \| SalesTerritoryKey**
 
 	*The **SalespersonRegion** table can be considered to be a bridging table.*
 
@@ -197,9 +197,9 @@ In this task you will create a many-to-many relationship between the **Salespers
 
 In this task you will create a relationship to the **Targets** table
 
-1. Create a relationship from the **Salesperson (Performance) | EmployeeID** column and the **Targets | EmployeeID** column.
+1. Create a relationship from the **Salesperson (Performance) \| EmployeeID** column and the **Targets \| EmployeeID** column.
 
-2. In Report view, add the **Targets | Target** field to the table visual.
+2. In Report view, add the **Targets \| Target** field to the table visual.
 
 3. Resize the table visual so all columns are visible.
 
