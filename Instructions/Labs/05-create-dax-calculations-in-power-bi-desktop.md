@@ -135,7 +135,7 @@ In this task you will create the **Salesperson** table (direct relationship to *
 
 5. Notice that the **Salesperson** table is available (take care, it might be hidden from view, in which case scroll horizontally to locate it).
 
-6. Create a relationship from the **Salesperson | EmployeeKey** column to the **Sales | EmployeeKey** column.
+6. Create a relationship from the **Salesperson \| EmployeeKey** column to the **Sales \| EmployeeKey** column.
 
 7. Right-click the inactive relationship between the **Salesperson (Performance)** and **Sales** tables, and then select **Delete**.
 
@@ -325,15 +325,15 @@ In this task you will complete the design of the **Date** table by hiding a colu
 
 6. Create the following two model relationships:
 
-	- **Date | Date** to **Sales | OrderDate**
+	- **Date \| Date** to **Sales \| OrderDate**
 
-	- **Date | Date** to **Targets | TargetMonth**
+	- **Date \| Date** to **Targets \| TargetMonth**
 
 7. Hide the following two columns:
 
-	- Sales | OrderDate
+	- Sales \| OrderDate
 
-	- Targets | TargetMonth
+	- Targets \| TargetMonth
 
 ### **Task 6: Mark the Date table**
 
@@ -369,9 +369,9 @@ In this exercise you will create and format several measures.
 
 In this task you will create simple measures. Simple measures aggregate values in a single column or count rows of a table.
 
-1. In Report view, on **Page 2**, in the **Fields** pane, drag the **Sales | Unit Price** field into the matrix visual.
+1. In Report view, on **Page 2**, in the **Fields** pane, drag the **Sales \| Unit Price** field into the matrix visual.
 
-	*The labs use a shorthand notation to reference a field. It will look like this: **Sales | Unit Price**. In this example, **Sales** is the table name and **Unit Price** is the field name.*
+	*The labs use a shorthand notation to reference a field. It will look like this: **Sales \| Unit Price**. In this example, **Sales** is the table name and **Unit Price** is the field name.*
 
 	![Picture 27](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image35.png)
 
@@ -491,7 +491,7 @@ In this task you will create additional measures that use more complex formulas.
 
 	![Picture 42](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image46.png)
 
-4. Rename the **Targets | Target** column as **Targets | TargetAmount**.
+4. Rename the **Targets \| Target** column as **Targets \| TargetAmount**.
 
 	*Tip: There are several ways to rename the column in Report view: In the **Fields** pane, you can right-click the column, and then select **Rename**—or, double-click the column, or press **F2**.*
 
