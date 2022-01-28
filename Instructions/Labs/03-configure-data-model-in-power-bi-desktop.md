@@ -129,9 +129,9 @@ In this task you will create model relationships.
 
 	![Picture 329](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image12.png)
 
-	*The labs use a shorthand notation to reference a field. It will look like this: **Product | Category**. In this example, **Product** is the table name and **Category** is the field name.*
+	*The labs use a shorthand notation to reference a field. It will look like this: **Product \| Category**. In this example, **Product** is the table name and **Category** is the field name.*
 
-6. To add an additional column to the table, in the **Fields** pane, check the **Sales | Sales** field.
+6. To add an additional column to the table, in the **Fields** pane, check the **Sales \| Sales** field.
 
 7. Notice that the table visual lists four product categories, and that the sales value is the same for each, and the same for the total.
 
@@ -207,9 +207,9 @@ In this task you will create model relationships.
 
 24. Use the new technique to create the following two model relationships:
 
-	- **Region | SalesTerritoryKey** to **Sales | SalesTerritoryKey**
+	- **Region \| SalesTerritoryKey** to **Sales \| SalesTerritoryKey**
 
-	- **Salesperson | EmployeeKey** to **Sales | EmployeeKey**
+	- **Salesperson \| EmployeeKey** to **Sales \| EmployeeKey**
 
 	*In this lab the **SalespersonRegion** and **Targets** tables will remain disconnected. There’s a many-to-many relationship between salespeople and regions, and you’ll work with this advanced scenario in the **Model Data in Power BI Desktop, Part 2** lab.*
 
@@ -355,35 +355,35 @@ In this task you will configure the **Sales** table.
 
 In this task you will update multiple columns using single bulk updates. You will use this approach to hide columns, and format column values.
 
-1. In the **Fields** pane, select the **Product | ProductKey** column.
+1. In the **Fields** pane, select the **Product \| ProductKey** column.
 
 2. While pressing the **Ctrl** key, select the following 13 columns (spanning multiple tables):
 
-	- Region | SalesTerritoryKey
+	- Region \| SalesTerritoryKey
 
-	- Reseller | ResellerKey
+	- Reseller \| ResellerKey
 
-	- Sales | EmployeeKey
+	- Sales \| EmployeeKey
 	
-	- Sales | ProductKey
+	- Sales \| ProductKey
 
-	- Sales | ResellerKey
+	- Sales \| ResellerKey
 
-	- Sales | SalesOrderNumber
+	- Sales \| SalesOrderNumber
 
-	- Sales | SalesTerritoryKey
+	- Sales \| SalesTerritoryKey
 
-	- Salesperson | EmployeeID
+	- Salesperson \| EmployeeID
 
-	- Salesperson | EmployeeKey
+	- Salesperson \| EmployeeKey
 
-	- Salesperson | UPN
+	- Salesperson \| UPN
 
-	- SalespersonRegion | EmployeeKey
+	- SalespersonRegion \| EmployeeKey
 
-	- SalespersonRegion | SalesTerritoryKey
+	- SalespersonRegion \| SalesTerritoryKey
 
-	- Targets | EmployeeID
+	- Targets \| EmployeeID
 
 3. In the **Properties** pane, slide the **Is Hidden** property to **On**.
 
@@ -395,11 +395,11 @@ In this task you will update multiple columns using single bulk updates. You wil
 
 4. Multi-select the following three columns:
 
-	- Product | Standard Cost
+	- Product \| Standard Cost
 
-	- Sales | Cost
+	- Sales \| Cost
 
-	- Sales | Sales
+	- Sales \| Sales
 
 5. In the **Properties** pane, from inside the **Formatting** section, set the **Decimal Places** property to **0** (zero).
 
@@ -427,13 +427,13 @@ In this task you will switch to Report view, and review the model interface.
 
 	- Fields adorned with the sigma symbol (Ʃ) will summarize, by default
 
-	- A tooltip appears when hovering the cursor over the **Sales | Cost** field
+	- A tooltip appears when hovering the cursor over the **Sales \| Cost** field
 
-3. Expand the **Sales | OrderDate** field, and then notice that it reveals a date hierarchy.
+3. Expand the **Sales \| OrderDate** field, and then notice that it reveals a date hierarchy.
 
 	![Picture 359](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image40.png)
 
-	*The **Targets | TargetMonth** field delivers a similar hierarchy. These hierarchies were not created by you. They were created automatically. There is a problem, however. The Adventure Works financial year commences on July 1 of each year. But, in these automatically created date hierarchies, the date hierarchy year commences on January 1 of each year.*
+	*The **Targets \| TargetMonth** field delivers a similar hierarchy. These hierarchies were not created by you. They were created automatically. There is a problem, however. The Adventure Works financial year commences on July 1 of each year. But, in these automatically created date hierarchies, the date hierarchy year commences on January 1 of each year.*
 
 	*You’ll now turn this automatic behavior off. In the **Create DAX Calculations in Power BI Desktop, Part 1** lab, you’ll use DAX to create a date table, and configure it define the Adventure Works’ calendar.*
 
@@ -507,9 +507,9 @@ In this task you will create two quick measures to calculate profit and profit m
 
 	- Use the **Division** mathematical operation
 
-	- Set the **Numerator** to the **Sales | Profit** field
+	- Set the **Numerator** to the **Sales \| Profit** field
 
-	- Set the **Denominator** to **Sales | Sales** field
+	- Set the **Denominator** to **Sales \| Sales** field
 
 	- Rename the measure as **Profit Margin**
 
