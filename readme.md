@@ -1,5 +1,9 @@
 # DA-100: Analyzing Data with Power BI
 
+This certification and course have been retired and replaced with [PL-300](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-300t00). If you're an MCT/MTT, please use the official [PL-300 repository](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst).
+
+<!---
+
 This repository contains the hands-on lab exercises for Microsoft course [DA-100: Analyzing Data with Power BI](https://docs.microsoft.com/en-us/learn/certifications/courses/da-100t00). The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
 
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
