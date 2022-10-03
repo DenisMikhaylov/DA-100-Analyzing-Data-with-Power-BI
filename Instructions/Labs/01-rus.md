@@ -1,9 +1,9 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
+Перейти к содержанию
+Найдите или перейдите к…
+Пулл-реквесты
+вопросы
+Торговая площадка
+Исследовать
  
 @DenisMikhaylov 
 DenisMikhaylov
