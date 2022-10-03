@@ -29,154 +29,127 @@ Latest commit e33ad56 on 14 Sep 2021
 352 lines (178 sloc)  16.1 KB
 
 ---
-lab:
-    title: 'Prepare Data in Power BI Desktop'
-    module: 'Module 2 - Get Data in Power BI'
+Лабораторная:
+    Название: 'Подготовка к  Power BI Desktop'
+    Модуль: 'Module 2 - Получение данных в Power BI'
 ---
 
-# **Prepare Data in Power BI Desktop**
+# **Подготовка данных в Power BI Desktop**
 
-**The estimated time to complete the lab is 45 minutes**
+**Расчетное время выполнения лабораторной работы 45 минут.**
 
-In this lab you commence the development of a Power BI Desktop solution for the Adventure Works company. It involves connecting to source data, previewing the data, and using data preview techniques to understand the characteristics and quality of the source data.
+В этом лабораторном занятии вы начнете разработку решения Power BI Desktop для компании Adventure Works. Он включает подключение к исходным данным, предварительный просмотр данных и использование методов предварительного просмотра данных для понимания характеристик и качества исходных данных.
 
-In this lab you learn how to:
 
-- Open Power BI Desktop
+В этой лабораторной работе вы научитесь:
 
-- Set Power BI Desktop options
+-Открывать Power BI Desktop
 
-- Connect to source data
+- Настраивать параметры Power BI Desktop
 
-- Preview source data
+- Подключать источники данных
 
-- Use data preview techniques to better understand the data
+- Смотреть предварительные данные перед их подключением
 
-### **Lab story**
+- Используйте методы предварительного просмотра данных, чтобы лучше понять данные
 
-This lab is one of many in a series of labs that was designed as a complete story from data preparation to publication as reports and dashboards. You can complete the labs in any order. However, if you intend to work through multiple labs, for the first 10 labs, we suggest you do them in the following order:
+### **Выполнение лабораторной**
 
-1. **Prepare Data in Power BI Desktop**
 
-2. Load Data in Power BI Desktop
+## **Упражнение 1: Подготовка данных**
 
-3. Model Data in Power BI Desktop, Part 1
+В этом упражнении вы создадите восемь запросов Power BI Desktop. Шесть запросов будут получать данные из SQL Server, а два — из CSV-файлов.
 
-4. Model Data in Power BI Desktop, Part 2
-
-5. Create DAX Calculations in Power BI Desktop, Part 1
-
-6. Create DAX Calculations in Power BI Desktop, Part 2
-
-7. Design a Report in Power BI Desktop, Part 1
-
-8. Design a Report in Power BI Desktop, Part 2
-
-9. Create a Power BI Dashboard
-
-10. Create a Power BI Paginated Report
-
-11. Perform Data Analysis in Power BI Desktop
-
-12. Enforce Row-Level Security
-
-## **Exercise 1: Prepare Data**
-
-In this exercise you will create eight Power BI Desktop queries. Six queries will source data from SQL Server, and two from CSV files.
-
-### **Task 1: Save the Power BI Desktop file**
+### **Задача 1: Сохранение файла Power BI Desktop**
 
 In this task you will first save the Power BI Desktop file.
 
-1. To open the Power BI Desktop, on the taskbar, click the Microsoft Power BI Desktop shortcut.
+1. В этой задаче вы сначала сохраните файл Power BI Desktop.
 
  	![Picture 2](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
 
-1. To close the getting started window, at the top-right of the window, click **X**.
+1. Чтобы закрыть окно начала работы, в правом верхнем углу окна щелкните **X**.
 
  	![Picture 3](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image2.png)
 
-1. To save the file, click the **File** ribbon tab to open the backstage view.
+1. Чтобы сохранить файл, щелкните вкладку ленты **Файл**, чтобы открыть представление Backstage..
 
-1. Select **Save**.
+1. Выберите **Save**.
 
  	![Picture 4](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image3.png)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+1. В окне **Save As**, Выберите папку **D:\DA100\MySolution**.
 
-1. In the **File Name** box, enter **Sales Analysis**.
+1. В поле **File Name**, Введите название файла **Sales Analysis**.
 
  	![Picture 14](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image4.png)
 
-1. Click **Save**.
+1. Нажмите **Save**.
 
 	![Picture 17](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image5.png)
 
-	Tip: You can also save the file by click the **Save** icon located at the top-left.
+	Подсказка: Вы также можете сохранить файл, нажав значок **Сохранить**, расположенный в левом верхнем углу.
 
 	![Picture 18](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image6.png)
 
-### **Task 2: Set Power BI Desktop options**
+### **Задача 2: НАстрофка параеметров Power BI Desktop**
 
-In this task you will set Power BI Desktop options.
+В этой задаче вы установите параметры Power BI Desktop.
 
-1. In Power BI Desktop, click the **File** ribbon tab to open the backstage view.
+1. В Power BI Desktop, нажмите **File** на ленте меню.
 
-1. At the left, select **Options and Settings**, and then select **Options**.
+1. в левой панели, выбирите **Options and Settings**, и выбирите **Options**.
 
  	![Picture 1](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image7.png)
 
-1. In the **Options** window, at the left, in the **Current File** group, select **Data Load**.
+1. В окне **Options**, слева, в группе **Current File**, выбирите **Data Load**.
 
     ![Picture 5](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image8.png)
 
-    The **Data Load** settings for the current file allow setting options that determine default behaviors when modeling.
+    Параметры **Data Load** для текущего файла позволяют задавать параметры, определяющие поведение по умолчанию при моделировании.
 
-1. In the **Relationships** group, uncheck the two options that are already checked.
+1. В группе **Relationships** ,уберите выбор двух параеметров.
 
 	![Picture 7](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image9.png)
 
-    While having these two options enabled can be helpful when developing a data model, you disabled them earlier to support the lab experience. When you create relationships in the **Load Data in Power BI Desktop** lab, you’ll learn why you are adding each one.
+    Хотя включение этих двух параметров может быть полезно при разработке модели данных, вы отключили их ранее для поддержки лабораторного опыта. При создании взаимосвязей в лабораторной работе **Загрузка данных в Power BI Desktop** вы узнаете, почему вы добавляете каждую из них.
 
-1. Click **OK**.
+1. Нажмите **OK**.
 
     ![Picture 9](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image10.png)
 
-1. Save the Power BI Desktop file.
+1. Сохраните файл Power BI Desktop.
 
-### **Task 3: Get data from SQL Server**
+### **Задача 3: Получение данных из MS SQL Server**
 
-In this task you will create queries based on SQL Server tables.
+В этом задании вы создадите запросы на основе таблиц SQL Server.
 
-1. On the **Home** ribbon tab, from inside the **Data** group, click **SQL Server**.
+1. В ленте меню выбирите **Home** , в группе **Data** , нажмите на **SQL Server**.
 
 	![Picture 19](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image11.png)
 
-2. In the **SQL Server Database** window, in the **Server** box, enter **localhost**.
+2. В окне **SQL Server Database**, в поле **Server**, введите **Имя сервера (дополнительно имя инстанса если это есть)** название серевера уточните у преподователя.
 
 	![Picture 21](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image12.png)
 
-	In this lab you’ll connect to the SQL Server database by using **localhost**. This isn’t a recommended practice when creating your own solutions. It’s because gateway data sources cannot resolve **localhost**.
-
-3. Click **OK**.
+	
+3. Нажмите **OK**.
 
 	![Picture 22](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image13.png)
 
-4. In the **Navigator** window, at the left, expand the **AdventureWorksDW2020** database.
-
-	The **AdventureWorksDW2020** database is based on the **AdventureWorksDW2017** sample database. It has been modified to support the learning objectives of the course labs.
+4. В окне **Navigator**, в левой части, раскрояте базу данных **AdventureWorksDW2020**.
 
 	![Picture 28](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image17.png)
 
-5. Select—but don’t check—the **DimEmployee** table.
+5. Наэмите на таблицу **DimEmployee**, но не ставьте чекбокс.
 
 	![Picture 29](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image18.png)
 
-6. In the right pane, notice a preview of the table data.
+6. В правой панели, загрузиться предварительно еотображение данных.
 
-	The preview data allows you to determine the columns and a sample of rows.
+	Данные предварительного просмотра позволяют определить столбцы и выборку строк..
 
-7. To create queries, select the checkbox next to the following six tables:
+7. Чтобы подключить таблицы, установите флажок рядом со следующими таблицами:
 
 	- DimEmployee
 
@@ -190,27 +163,27 @@ In this task you will create queries based on SQL Server tables.
 
 	- FactResellerSales
 
-8. To apply transformations to the data of the selected tables, click **Transform Data**.
+8. Чтобы преобразовать данные выбранных таблиц, нажмите **Transform Data**.
 
-	You won’t be transforming the data in this lab. The objectives of this lab focus on exploring and profiling the data in the **Power Query Editor** window.
+	Вы не будете преобразовывать данные в этой лаборатории. Задачи этого практического занятия сосредоточены на изучении и профилировании данных в окне **Power Query Editor**.
 
 	![Picture 30](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image19.png)
 
-### **Task 4: Preview SQL Server queries**
+### **Задача 4: Просмотр запросов MS SQL Server**
 
-In this task you will preview the data of the SQL Server queries. First, you will learn relevant information about the data. You will also use column quality, column distribution, and column profile tools to understand the data and to assess data quality.
+В этой задаче вы предварительно просмотрите данные запросов SQL Server. Во-первых, вы узнаете актуальную информацию о данных. Вы также будете использовать инструменты качества столбца, распределения столбца и профиля столбца, чтобы понять данные и оценить качество данных..
 
-1. In the **Power Query Editor** window, at the left, notice the **Queries** pane.
+1. В окне **Power Query Editor** , В левой части, находиться панель **Queries**.
 
 	![Picture 31](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image20.png)
 
-	The **Queries** pane contains one query for each table you checked.
+	Панель **Queries** находятся запросы к данным, один запрос на одну таблицу.
 
-2. Select the first query—**DimEmployee**.
+2. Выбирите первый запрос —**DimEmployee**.
 
 	![Picture 33](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image21.png)
 
-	The **DimEmployee** table in the SQL Server database stores one row for each employee. A subset of the rows from this table represents the salespeople, which will be relevant to the model you’ll develop.
+	Таблица **DimEmployee** в базе данных SQL Server хранит одну строку для каждого сотрудника. Подмножество строк из этой таблицы представляет продавцов, которые будут иметь отношение к модели, которую вы разработаете.
 
 3. At the bottom left, in the status bar, notice the table statistics—the table has 33 columns, and 296 rows.
 
